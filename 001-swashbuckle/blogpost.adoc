@@ -1,0 +1,151 @@
+:imagesdir: images
+:meta-description: TBD
+:title: Swashbuckle and Swagger with ASP.NET Core
+:slug: Swashbuckle-Swagger-ASPNET-Core
+:focus-keyword: swashbuckle
+:tags: asp.net core, swashbuckle, swagger
+:heroimage: TBD
+
+Swashbuckle is a handy library to easily bring link:https://swagger.io[Swagger] support to your ASP.NET Core (or ASP.NET) application. It is especially handy when developing an HTTP based API. It creates a form of interactive documentation based on the link:https://swagger.io/specification/[OpenAPI Specification].
+
+*Before* diving into Swashbuckle: *Merry Christmas!* This blog is being posted on December 25th, 2017. It's the final post of the very first link:https://crosscuttingconcerns.com/The-First-C-Advent-Calendar[C# Advent Calendar]. Please check out the other 24 posts in the series! This event has gone so well, that I'm already planning on doing it again in 2018. Thank you, again, to everyone who participated (whether you are a writer or you've just been following along).
+
+_The full source code used in this example is available on Github._
+
+== ASP.NET Core HTTP API
+
+I'm going to assume some level of familiarity with ASP.NET Core and creating a REST API. Here's an example of a GET and a POST. These endpoints are reading/writing from a JSON text file (in a way that is probably not thread-safe and definitely not efficient, but it's fine for this example).
+
+[source,C#,indent=0]
+----
+include::src/swashbuckle-example/Controllers/ValuesController.cs[tag=ValuesController]
+----
+
+To try out the GET endpoint, the simplest thing I can do is open a browser and view the results. But to try out the POST endpoint, I need something else. I could install link:https://www.getpostman.com/[Postman] or link:https://www.telerik.com/fiddler[Fiddler] (and you should). Here's how that would look.
+
+image:00101-postman.png[Postman]
+
+Postman is great for interacting with endpoints, but Postman alone doesn't really tell us anything about the endpoint or the system as a whole. This is where Swagger comes in.
+
+== Swagger
+
+Swagger is a standard way to provide specifications for endpoints. Usually, that specification is automatically generated and then used to generate an interactive UI.
+
+We could write the Swagger spec out by hand, but fortunately ASP.NET Core provides enough information to generate a spec for us. Look at the `PostTeam` action above. Just from reading that we know:
+
+* It expects a POST
+* The URL for it is `/api/team`
+* There's a `Team` class that we can look at to see what kind of body is expected
+
+From that, we could construct a Swagger spec like the following (I used JSON, you can also use YAML).
+
+[source,JavaScript,indent=0]
+----
+{
+	"swagger": "2.0",
+	"info": { "version": "v1", "title": "Sports API" },
+	"basePath": "/",
+	"paths": {
+		"/api/team": {
+			"post": {
+				"consumes": ["application/json"],
+				"parameters": [{
+					"name": "team",
+					"in": "body",
+					"required": false,
+					"schema": { "$ref": "#/definitions/Team" }
+				}]
+			}
+		}
+	},
+	"definitions": {
+		"Team": {
+			"type": "object",
+			"properties": {
+				"name": { "type": "string" },
+				"stadiumName": { "type": "string" },
+				"sport": { "type": "string" }
+			}
+		}
+	}
+}
+----
+
+But why on earth would you want to type that out? Let's bring in a .NET library to do the job. Install link:https://www.nuget.org/packages/Swashbuckle.AspNetCore[Swashbuckle.AspNetCore] with NuGet (there's a different package if you want to do this with ASP.NET).
+
+You'll need to add a few things to `Startup.cs`:
+
+In the `ConfigureServices` method:
+
+[source,C#,indent=0]
+----
+include::src/swashbuckle-example/Startup.cs[tag=swaggerConfigureServices]
+----
+
+In the `Configure` method:
+
+[source,C#,indent=0]
+----
+include::src/swashbuckle-example/Startup.cs[tag=swaggerConfigure]
+----
+
+_Aside: With ASP.NET, NuGet actually does all this setup work for you._
+
+Once you've done this, you can open a URL like `\http://localhost:9119/swagger/v1/swagger.json` and see the generated JSON spec.
+
+image:00102-swagger-spec.png[Swagger spec in JSON]
+
+== Swagger UI with Swashbuckle
+
+That spec is nice, but it would be even nicer if we could use the spec to generate a UI.
+
+Back in the `Configure` method, add this:
+
+[source,C#,indent=0]
+----
+include::src/swashbuckle-example/Startup.cs[tag=swaggerUIConfigure]
+----
+
+Now, open your site and go to `/swagger`:
+
+image:00103-swagger-ui.png[Swagger UI]
+
+Some cool things to notice:
+
+* Expand/collapse by clicking the URL of an endpoint (note that you must use `Route` attributes for Swashbuckle to work with ASP.NET Core).
+* "Try it out!" buttons. You can execute GET/POST right from the browser
+* The "parameter" of the POST method. Not only can you paste in some content, but you get an example value that acts like a template (just click it).
+
+== Giving some swagger to your Swagger
+
+Swagger and Swashbuckle have done a lot with just a little bit. It can do even more if we add a little more information in the code.
+
+* Response: The `ProducesResponseType` attribute will let Swagger know what the response will look like (this is especially useful if you are using `IActionResult` and/or an endpoint could return different types in different situations).
+
+* Comments: If you are using XML comments, you can have these included with the Swagger output.
+
+[source,C#,indent=0]
+----
+include::src/swashbuckle-example/Startup.cs[tag=swaggerConfigureServicesWithXMLComments]
+----
+
+(Also make sure you XML Documentation output for your project enabled)
+
+* Customize your info: there's more to the `Info` class than just Title and Version. You can specify a license, contact, etc.
+
+[source,C#,indent=0]
+----
+include::src/swashbuckle-example/Startup.cs[tag=swaggerConfigureServicesInfo]
+----
+
+== Summary
+
+Working on HTTP-based APIs? Bring Swashbuckle and Swagger into your life!
+
+More resources:
+
+* I recorded a couple of videos on getting started with Couchbase that feature Swashbuckle. Check out link:https://blog.couchbase.com/asp-net-couchbase-getting-started/[ASP.NET with Couchbase: Getting Started] and link:https://blog.couchbase.com/asp-net-core-couchbase-getting-started/[ASP.NET Core with Couchbase: Getting Started]
+* link:https://github.com/domaindrivendev/Swashbuckle[Swashbuckle for ASP.NET]
+* link:https://github.com/domaindrivendev/Swashbuckle.AspNetCore[Swashbuckle for ASP.NET Core] (Github)
+
+Thanks again for reading the link:https://crosscuttingconcerns.com/The-First-C-Advent-Calendar[2017 C# Advent]!
