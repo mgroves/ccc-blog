@@ -4,7 +4,7 @@
 :slug: swashbuckle-swagger-asp-net-core
 :focus-keyword: swashbuckle
 :tags: asp.net core, swashbuckle, swagger
-:heroimage: TBD
+:heroimage: 001-hero-swashbuckle-pirate-battle-sea-cannons.jpg https://commons.wikimedia.org/wiki/File:Quibcardinaux2.jpg public domain
 
 Swashbuckle is a handy library to easily bring link:https://swagger.io[Swagger] support to your ASP.NET Core (or ASP.NET) application. It is especially handy when developing an HTTP based API. It creates a form of interactive documentation based on the link:https://swagger.io/specification/[OpenAPI Specification].
 
