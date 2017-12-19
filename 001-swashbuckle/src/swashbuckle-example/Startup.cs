@@ -41,7 +41,7 @@ namespace swashbuckle_example
             // end::swaggerConfigureServices[]
             */
 
-            /*
+            
             // tag::swaggerConfigureServicesInfo[]
             services.AddSwaggerGen(c =>
             {
@@ -62,10 +62,12 @@ namespace swashbuckle_example
                         Url = "http://www.apache.org/licenses/LICENSE-2.0.html"
                     }
                 });
+                var filePath = Path.Combine(PlatformServices.Default.Application.ApplicationBasePath, "swashbuckle-example.xml");
+                c.IncludeXmlComments(filePath);
             });
             // end::swaggerConfigureServicesInfo[]
-            */
-
+            
+            /*
             // tag::swaggerConfigureServicesWithXMLComments[]
             services.AddSwaggerGen(c =>
             {
@@ -74,6 +76,7 @@ namespace swashbuckle_example
                 c.IncludeXmlComments(filePath);
             });
             // end::swaggerConfigureServicesWithXMLComments[]
+            */
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
