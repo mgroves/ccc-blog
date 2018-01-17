@@ -1,5 +1,5 @@
 :imagesdir: images
-:meta-description: TBD
+:meta-description: Cartridge cleaning your NES games is easy. You can do it with stuff you might already have around the house, or with less than $20 at Amazon.
 :title: Cartridge cleaning: NES
 :slug: cartridge-cleaning-NES
 :focus-keyword: cartridge cleaning
@@ -26,11 +26,15 @@ Inside the cartridge you should see a small circuit board and a lot of empty spa
 
 image:00202-wizards-and-warriors-nes.jpg[Wizards and Warriors internal]
 
-Note that the inside may vary. If you have an older cartridge, it may be a Famicom board with an adapter. You may see some cartridges that contain batteries. Make sure to be very careful when handling the board. You may want to ground yourself to avoid any static discharge.
+Note that the inside may vary. If you doing cartridge cleaning on older NES titles, it may just be a Famicom board with an adapter inside. You may see some cartridges that contain batteries. Make sure to be very careful when handling the board. You may want to ground yourself to avoid any static discharge.
 
 == Cartridge cleaning
 
-The most important things to clean are the contacts that stick out the bottom. These are the gold/copper color strips that are the most exposed and actually plug into the console. To clean these, use link:https://www.amazon.com/gp/product/B001B5JT8C[isopropyl alcohol (I'm using 99%)] and a link:https://www.amazon.com/gp/product/B00NR9S3EQ/[lint-free cloth].
+The most important things to clean are the contacts that stick out the bottom.
+
+=== Contacts
+
+These are the gold/copper color strips that are the most exposed and actually plug into the console. To clean these, use link:https://www.amazon.com/gp/product/B001B5JT8C[isopropyl alcohol (I'm using 99%)] and a link:https://www.amazon.com/gp/product/B00NR9S3EQ/[lint-free cloth].
 
 _Note: most cartridges have a warning "DO NOT CLEAN WITH BENZENE, THINNER, ALCOHOL OR OTHER SUCH SOLVENTS." on the back. I suspect this warning is to a) get people to buy official Nintendo cleaning kits, and/or b) indemnify Nintendo if something goes wrong. Alcohol, especially alcohol that's not very diluted, is perfectly fine for cleaning electrical contacts. You don't have to take my word for it, check out link:https://electronics.stackexchange.com/questions/110212/contact-cleaner-vs-alcohol[here], link:https://superuser.com/questions/598468/how-do-i-clean-my-computer-using-isopropyl-alcohol[here], and link:https://home.howstuffworks.com/electrical-contact-cleaner.htm[here] for more information. I've also heard that certain types of erasers are good for cleaning these contacts. The key is make sure it's absolutely dry before you plug in the cartridge._
 
@@ -40,7 +44,9 @@ image:00203-alcohol-and-cloth-for-cleaning-cartridges.jpg[Alcohol and cloth for 
 
 You don't need very much alcohol.
 
-Next, while this is drying, you may want to clean the rest of the exposed portion of the cartridge with soap and water. Use a toothbrush or other gentle cleaning brush to get all the corners. This part of the cartridge is usually fine if stored correctly. However, since it's exposed, who knows what might have gotten in there over the years. Dust, spilled drinks, spit from people blowing into them, and so on.
+=== Plastic case
+
+Next, while this is drying, you may want to perform cartridge cleaning on the rest of the exposed portion of the cartridge with soap and water. Use a toothbrush or other gentle cleaning brush to get all the corners. This part of the cartridge is usually fine if stored correctly. However, since it's exposed, who knows what might have gotten in there over the years. Dust, spilled drinks, spit from people blowing into them, and so on.
 
 image:00204-soap-cartridge-cleaning.jpg[Soap and water on cartridge opening]
 
@@ -62,4 +68,4 @@ The circuit board should only fit one way back in the case.
 
 The cartridge I used in this example was a fairly standard NES cartridge and was not in bad shape to begin with. If I run into any other interesting examples, I will write separate blog posts.
 
-Cleanliness is next to... uh... something.
+Cartridge cleaning, because cleanliness is next to... uh... something.
