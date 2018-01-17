@@ -26,7 +26,7 @@ Inside the cartridge you should see a small circuit board and a lot of empty spa
 
 image:00202-wizards-and-warriors-nes.jpg[Wizards and Warriors internal]
 
-Note that the inside may vary. If you doing cartridge cleaning on older NES titles, it may just be a Famicom board with an adapter inside. You may see some cartridges that contain batteries. Make sure to be very careful when handling the board. You may want to ground yourself to avoid any static discharge.
+Note that the inside may vary. If you're doing cartridge cleaning on older NES titles, it may just be a Famicom board with an adapter inside. You may see some cartridges that contain batteries. Make sure to be very careful when handling the board. You may want to ground yourself to avoid any static discharge.
 
 == Cartridge cleaning
 
