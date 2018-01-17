@@ -1,0 +1,65 @@
+:imagesdir: images
+:meta-description: TBD
+:title: Cartridge cleaning: NES
+:slug: cartridge-cleaning-NES
+:focus-keyword: cartridge cleaning
+:tags: retrogaming, NES, cleaning, cartridge
+:heroimage: 00202-wizards-and-warriors-nes.jpg is a good hero image
+
+Cartridge cleaning is something that I need to do more of, now that I'm selling off most of my video game collection, one piece at a time.
+
+I welcome your feedback, but here's how I'm currently doing it for standard NES cartridges. The materials you need for cleaning should only set you back $20 (or less).
+
+== Open the cartridge
+
+First, open the cartridge. The type of screws used in standard Nintendo cartridges are a little out of the ordinary, but I find that a small flathead screwdriver does the trick and doesn't damage or strip the screw heads. I got a new ratcheting screwdriver set as a gift, and one of the bits that came with it works perfectly. Here's the screwdriver and bit (with an SD card for scale).
+
+image:00201-screwdriver.jpg[Ratcheting screwdriver with small flathead bit]
+
+For other types of cartridges, you may need a special link:https://www.amazon.com/gp/product/B009I6FWOQ["security bit"].
+
+Your NES cartridge may have 3 or 5 screws. Be careful not to drop them after you unscrew them, as they are very tiny and easy to lose.
+
+Carefully separate the two halves of the cartridge and bear in mind that there are two small latches at the top that clasp together.
+
+Inside the cartridge you should see a small circuit board and a lot of empty space. In this example, I used Wizards and Warriors.
+
+image:00202-wizards-and-warriors-nes.jpg[Wizards and Warriors internal]
+
+Note that the inside may vary. If you have an older cartridge, it may be a Famicom board with an adapter. You may see some cartridges that contain batteries. Make sure to be very careful when handling the board. You may want to ground yourself to avoid any static discharge.
+
+== Cartridge cleaning
+
+The most important things to clean are the contacts that stick out the bottom. These are the gold/copper color strips that are the most exposed and actually plug into the console. To clean these, use link:https://www.amazon.com/gp/product/B001B5JT8C[isopropyl alcohol (I'm using 99%)] and a link:https://www.amazon.com/gp/product/B00NR9S3EQ/[lint-free cloth].
+
+_Note: most cartridges have a warning "DO NOT CLEAN WITH BENZENE, THINNER, ALCOHOL OR OTHER SUCH SOLVENTS." on the back. I suspect this warning is to a) get people to buy official Nintendo cleaning kits, and/or b) indemnify Nintendo if something goes wrong. Alcohol, especially alcohol that's not very diluted, is perfectly fine for cleaning electrical contacts. You don't have to take my word for it, check out link:https://electronics.stackexchange.com/questions/110212/contact-cleaner-vs-alcohol[here], link:https://superuser.com/questions/598468/how-do-i-clean-my-computer-using-isopropyl-alcohol[here], and link:https://home.howstuffworks.com/electrical-contact-cleaner.htm[here] for more information. I've also heard that certain types of erasers are good for cleaning these contacts. The key is make sure it's absolutely dry before you plug in the cartridge._
+
+First, put a very small amount of the alcohol on the contacts (you might want to use a dropper, a Q-tip, or just dip the cloth into the alcohol), and rub them with a cloth (make sure to get both sides).
+
+image:00203-alcohol-and-cloth-for-cleaning-cartridges.jpg[Alcohol and cloth for cartridge cleaning]
+
+You don't need very much alcohol.
+
+Next, while this is drying, you may want to clean the rest of the exposed portion of the cartridge with soap and water. Use a toothbrush or other gentle cleaning brush to get all the corners. This part of the cartridge is usually fine if stored correctly. However, since it's exposed, who knows what might have gotten in there over the years. Dust, spilled drinks, spit from people blowing into them, and so on.
+
+image:00204-soap-cartridge-cleaning.jpg[Soap and water on cartridge opening]
+
+Finally, you may want to clean up the outside of the cartridge for aesthetic reasons. The line of ridges can often build up dust and grime, so you can also use soap and water on that. Be careful not to get anything on the label.
+
+image:00205-soap-exterior.jpg[Soap exterior ridges]
+
+Make sure to dry the soap and water with a cloth. I recommend *not* using a paper towel.
+
+If there are any stickers or other residue on the outside of the cartridge, you can use something like link:https://www.amazon.com/gp/product/B00D7J9VLK[Goof Off] to remove it. Again, be very careful not to get this on the label.
+
+image:00206-goof-off-adhesive-remover.jpg[Goof Off adhesive remover]
+
+Make sure everything is dry before putting it back together. *I cannot overstate this. Do not mix moisture and electricity!*
+
+The circuit board should only fit one way back in the case.
+
+== All done!
+
+The cartridge I used in this example was a fairly standard NES cartridge and was not in bad shape to begin with. If I run into any other interesting examples, I will write separate blog posts.
+
+Cleanliness is next to... uh... something.
