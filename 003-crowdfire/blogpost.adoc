@@ -1,0 +1,58 @@
+:imagesdir: images
+:meta-description: I've been using Crowdfire on Android for a few months now, and I've been a paying customer for a while. So, I think it's time to share my thoughts on it, and why you might want to give it a shot.
+:title: Using Crowdfire to keep on top of social media
+:slug: Using-Crowdfire-social-media
+:focus-keyword: crowdfire
+:tags: social media, twitter, personal
+:heroimage: TBD
+
+I've been using Crowdfire link:https://www.crowdfireapp.com/[social media management tool] on Android for a few months now, and I've been a paying customer for a while. So, I think it's time to share my thoughts on it, and why you might want to give it a shot.
+
+_Disclaimer: a small promotional consideration was paid by Crowdfire for this post. But I probably would have written it anyway._
+
+I work as a developer advocate, and a significant portion of that is using social media to promote, engage, build a follower base, etc. However, I have some problems:
+
+* I'm forgetful: I need to remember to help promote posts of my friends and coworkers
+* Scheduling: I've used link:https://twuffer.com/[Twuffer] in the past (and I still occasionally do), but I'd like an easier way to schedule tweets on my phone.
+* Tracking: I'd like to track how my follower count is doing, and how well I'm sending out promotional tweets.
+* I don't want my Twitter feed to only be a shill-broadcast of self-promotion. I use link:https://ifttt.com/[IFTTT] for certain things, but I want to have some degree of control over what I post, the hashtags I use, the phrasing, etc.
+
+There are a lot of tools out there for doing this, but many of them don't solve all these problems (especially the last one).
+
+I don't remember where or how I found Crowdfire, but it's now something that I use every day. Literally it's one of the first things I do when I wake up in the morning.
+
+It has a lot of capabilities, I'm only going to cover a few in this post.
+
+== What Crowdfire is not
+
+It's not a replacement for my Twitter client of choice. I still use the Twitter app to do all my reading and a bunch of my tweeting. If I turned over complete control of my Twitter/Facebook/etc account to an app like Crowdfire, IFTTT, etc, then I think I'd be missing the point of social media. I want to be a real person that people can talk to and not just an automated feed of links.
+
+== Daily Notification and "prescriptions"
+
+Whenever a new post hits the Couchbase blog, I get a notification and prompt to share the post (whether I wrote the post or not). I also get a report every morning showing the number of followers and unfollowers since yesterday. This provides me daily feedback on whether I'm getting too annoying on social media or not. Also, when I share a post on Crowdfire, it will automatically schedule to tweet them up to 4 times over a 30 day period at the "best time" of day. I'm not sure how they calculate this, but it spaces out my tweets nicely, and I've found that repetition of tweets leads to more people seeing them and tweeting with me than before I used Crowdfire.
+
+image:00301-crowdfire-notifications.png[Crowdfire notifications]
+
+== Scheduling
+
+As I mentioned above, not only will Crowdfire remind me to tweet, it will also schedule tweets. Everyone uses Twitter at different times, so it's helpful to send out multiple tweets (but not too many) to reach everyone that I can. In addition, I can manually schedule tweets. I find this helpful when promoting new podcast episodes.
+
+image:00302-crowdfire-scheduling.png[Crowdfire scheduling]
+
+== RSS Feeds
+
+One feature that Crowdfire has introduced after I started using it, is the ability to connect to any RSS feed. Previously I was limited to just WordPress or other well-known engines. But now I can use Crowdfire with my own site's RSS feed. This way I can track which posts I've promoted on Twitter and which ones I haven't.
+
+image:00303-crowdfire-rss.png[Crowdfire RSS]
+
+== Recommended sharing and following
+
+I've given Crowdfire some keywords that I find most relevant. It will then recommend people to follow or articles to tweet that are relevant to me. To me, Twitter isn't just about getting a bunch of follow__ers__, but it's about doing a lot of follow__ing__.
+
+image:00304-crowdfire-recommendations.png[Crowdfire recommendations]
+
+I usually find this helpful, but this is probably the area where I think Crowdfire could most improve. I get a few suggestions of people who don't tweet in English, and articles that I'm not interested in, for instance.
+
+== Summary
+
+Give Crowdfire a shot. They have a free version, which has some limits, but it's absolutely enough to evaluate the tool and see if you find it useful. Crowdfire is link:https://play.google.com/store/apps/details?id=com.justunfollow.android[in the Google Play store].
