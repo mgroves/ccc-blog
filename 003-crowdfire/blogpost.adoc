@@ -1,10 +1,10 @@
 :imagesdir: images
-:meta-description: I've been using Crowdfire on Android for a few months now, and I've been a paying customer for a while. So, I think it's time to share my thoughts on it, and why you might want to give it a shot.
+:meta-description: I've been using Crowdfire on Android for a few months now, and I've been a paying customer for a while. So, I think it's time to share my thoughts on it.
 :title: Using Crowdfire to keep on top of social media
 :slug: Using-Crowdfire-social-media
 :focus-keyword: crowdfire
 :tags: social media, twitter, personal
-:heroimage: TBD
+:heroimage: 003-hero-social-media.jpeg
 
 I've been using Crowdfire link:https://www.crowdfireapp.com/[social media management tool] on Android for a few months now, and I've been a paying customer for a while. So, I think it's time to share my thoughts on it, and why you might want to give it a shot.
 
