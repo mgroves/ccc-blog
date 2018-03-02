@@ -1,0 +1,32 @@
+:imagesdir: images
+:meta-description: Stephen Cleary is writing Azure Functions.
+:title: Podcast 072 - Stephen Cleary on Azure Functions
+:slug: Using-Crowdfire-social-media
+:focus-keyword: crowdfire
+:tags: azure functions, podcast
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/072StephenClearyAzureFunctions.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/072StephenClearyAzureFunctions.mp3
+:podcastsize: 22571422
+:podcastlength: 19:50
+
+Stephen Cleary is writing Azure Functions. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* The link:https://stackoverflow.com/questions/46162151/azure-functions-singleton-for-expensive-object/46478399#46478399[Stack Overflow answer] that prompted this podcast
+* link:https://docs.microsoft.com/en-us/dotnet/api/system.lazy-1?view=netframework-4.7.1[Lazy<T>]
+* Be sure to check out `LazyThreadSafetyMode` in the documentation (Stephen recommended `PublicationOnly` mode)
+* Stephen's link:https://github.com/StephenCleary/AsyncEx[AsyncEx project]
+* link:https://stephencleary.com[Stephencleary.com]
+* Book: link:https://www.amazon.com/Concurrency-Cookbook-Asynchronous-Multithreaded-Programming/dp/1449367569/[Concurrency in C# Cookbook]
+* link:https://blogs.msdn.microsoft.com/toub/[Stephen Toub blog]
+* Jon Skeet's link:https://codeblog.jonskeet.uk/category/eduasync/[EduAsync series]
+* Microsoft docs on link:https://docs.microsoft.com/en-us/azure/azure-functions/[Azure Functions]
+* link:https://github.com/Azure/Azure-Functions/issues[Azure Functions issues on Github]
+* Spend some time with your family!
+
+link:https://twitter.com/aSteveCleary[Stephen Cleary is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
