@@ -1,0 +1,28 @@
+:imagesdir: images
+:meta-description: Scott Drake is hiring programmers.
+:title: Podcast 073 - Scott Drake on Hiring Programmers
+:slug: Podcast-073-Scott-Drake-Hiring-Programmers
+:tags: leadership, hiring, podcast
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/073ScottDrakeHiringProgrammers.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/073ScottDrakeHiringProgrammers.mp3
+:podcastsize: 20832734
+:podcastlength: 17:05
+
+Scott Drake is hiring programmers. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:http://codestock.org/[CodeStock] is April 20-21 in Knoxville, TN
+* link:http://www.codepalousa.com/[CodePaLOUsa] is in Louisville, KY, March 28-30th.
+* Book: link:https://www.amazon.com/Peter-Principle-Things-Always-Wrong/dp/0062092065[The Peter Principle: Why Things Always Go Wrong]
+* Book: link:https://www.amazon.com/Multipliers-Revised-Updated-Leaders-Everyone/dp/0062663070[Multipliers] by Liz Wiseman
+* Blog post: link:http://www.scottdrakeblog.com/8-factors-that-reveal-if-a-programmer-will-fit-your-team-and-organization/[8 Factors That Reveal if a Programmer Will Fit Your Team and Organization]
+* Book: link:https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805[Drive] by Daniel Pink
+* Book: link:https://www.amazon.com/Programmer-Hiring-Playbook-Interviewing-Real-World-ebook/dp/B06X3VZ8F6[The Programmer Hiring Playbook]
+* link:http://www.learnleadership.org/[LearnLeadership.org]
+
+link:https://twitter.com/tscottdrake[Scott Drake is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
