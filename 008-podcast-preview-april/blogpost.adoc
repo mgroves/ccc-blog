@@ -1,0 +1,35 @@
+:imagesdir: images
+:meta-description: Season 3 rolls on with more great guests!
+:title: Podcast Preview - April 2018
+:slug: Podcast-Preview-April-2018
+:tags: podcast
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net/images/speaker.png
+:podcastpath:
+:podcastsize:
+:podcastlength:
+
+Thanks to tremendous response, I've got a ton of great guests lined up.
+
+*Reminders:*
+
+* Be sure to check out my sponsor: link:https://smartsheet.com/crosscuttingconcerns[Smartsheet]! Thanks to them, I'm able to afford some new equipment, more hosting, and the JavaScript game show prizes!
+* If you're enjoying the new JavaScript game show, link:https://crosscuttingconcerns.com/Contact[please send in your suggestions]. I'm running out of ideas, and you and your ideas could be featured on this show. I need real __and__ made-up suggestions! The sillier the names, the better.
+
+Subscribe now!
+
+* link:http://feeds.feedburner.com/CrossCuttingConcernsPodcast[RSS feed]
+* link:https://itunes.apple.com/us/podcast/cross-cutting-concerns-podcast/id1118950133?mt=2[iTunes]
+* link:https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/Itdw4st6e5b45a7t6t6a772otue?t%3DCross_Cutting_Concerns_Podcast[Google Play]
+* link:http://www.stitcher.com/podcast/cross-cutting-concerns[Stitcher]
+
+Here's what's coming in March:
+
+* David Giard is returning to talk more cognitive services
+* Chase Aucoin on the Microservices Manifesto
+* Andrea Cremese returns to talk developer retention
+* Jeffrey Miller returns to talk about authoring a children's book
+* Craig Stuntz returns to talk .NET IL
+
+Subscribe now with your podcatcher of choice!
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
