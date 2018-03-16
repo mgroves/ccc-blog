@@ -1,0 +1,26 @@
+:imagesdir: images
+:meta-description: Andrea Cremese is building and using Saas
+:title: Podcast 075 - Andrea Cremese on SaaS
+:slug: Podcast-075-Andrea-Cremes-SaaS
+:tags: podcast, business, saas, cloud
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/075AndreaCremeseSaas.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/075AndreaCremeseSaas.mp3
+:podcastsize: 24488557
+:podcastlength: 21:24
+
+Andrea Cremese is building and using Saas.
+
+Show Notes:
+
+* The Henry Ford quote appears to be apocryphal: link:https://hbr.org/2011/08/henry-ford-never-said-the-fast[Henry Ford, Innovation, and That “Faster Horse” Quote]
+* Services mentioned: link:https://www.wework.com/[wework] and link:https://www.galvanize.com[Galvanize]
+* Podcast: link:http://nathanlatka.com/podcast-thetop/[The Top] by Nathan Latka
+* link:http://andreacremese.com/SAAS/[The SAAS Cheatsheet]
+* link:https://www.youtube.com/watch?v=d-EMBEOrWbE[Interview with Aaron Levy], the CEO of box
+* Movie: link:https://www.abacusmovie.com/[Abacus: small enough to jail]
+
+link:https://twitter.com/andreacremese[Andrea Cremes is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
