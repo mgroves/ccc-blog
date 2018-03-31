@@ -1,0 +1,27 @@
+:imagesdir: images
+:meta-description: David Giard is using Microsoft's Vision Cognitive Services.
+:title: Podcast 076 - David Giard on Vision Cognitive Services
+:slug: Podcast-076-David-Giard-Vision-Cognitive-Services
+:tags: podcast, machine learning, azure
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/076DavidGiardCognitiveServices2.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/076DavidGiardCognitiveServices2.mp3
+:podcastsize: 24707409
+:podcastlength: 20:36
+
+David Giard is using Microsoft's Vision Cognitive Services. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Check out the last time David was on the show discussing some of the link:https://crosscuttingconcerns.com/Podcast-006---David-Giard-on-Cognitive-Services[other cognitive services]
+* Short URL: link:https://microsoft.com/cognitive[microsoft.com/cognitive]
+* We discussed facial recognition and security, be sure to check out link:https://crosscuttingconcerns.com/Podcast-071-Bill-Sempf-on-Sneakers[episode 71 with Bill Sempf] for more on that topic.
+* link:customvision.ai[Custom Vision]
+* link:http://davidgiard.com/cognitivesvcs.aspx[David Giard's collection of cognitive services resources]
+* David's link:https://github.com/DavidGiard/CognitiveSvcsDemos[CognitiveSvcsDemos] repository on Github
+* Be sure to check out David's show, link:http://technologyandfriends.com/[Technology and Friends], which is an excellent show and a direct inspiration for this very podcast.
+
+link:https://twitter.com/DavidGiard[David Giard is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
