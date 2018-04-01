@@ -1,0 +1,32 @@
+:imagesdir: images
+:meta-description: Chase Aucoin has created a microservices manifesto.
+:title: Podcast 077 - Chase Aucoin on the Microservices Manifesto
+:slug: Podcast-077-Chase-Aucoin-Microservices-Manifesto
+:tags: podcast, microservices
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/077ChaseAucoinMicroserviceManifesto.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/077ChaseAucoinMicroserviceManifesto.mp3
+:podcastsize: 17174802
+:podcastlength: 15:19
+
+Chase Aucoin has created a microservices manifesto. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:http://microservicemanifesto.com/[The Microservice Manifesto]
+* link:http://sfcodecamp.com[South Florida Code Camp]
+* Some acronyms mentioned:
+** SOA (Service-oriented architecture) is a broad topic, but here's a little article on the link:https://www.safaribooksonline.com/library/view/soa-in-practice/9780596529550/ch01s04.html[History of SOA]
+** ERP (Enterprise resource planning), examples you may have heard of include Microsoft Dynamics, PeopleSoft, SAP
+** ESB (Enterprise service bus), examples you have have heard of include Microsoft BizTalk, Azure Service Bus, WebSphere ESB, and many others.
+** CI/CD - Continuous Integration (in a nutshell: build automation) / Continuous Deployment (in a nutshell: deploying software to production on a frequent basis)
+* link:http://www.rabbitmq.com/[RabbitMQ] - an open-source message broker
+* link:https://www.docker.com/[Docker] - a container platform
+* "Waterfall" is typically used disparagingly to describe a "big design up front" approach to creating software, as opposed to an iterative "agile" approach.
+* link:https://docs.microsoft.com/en-us/dotnet/api/overview/azure/service-fabric?view=azure-dotnet[Azure Service Fabric libraries for .NET]
+* February was link:http://www.marfan.org/[Marfan's Awareness Month], thanks for sharing that, Chase!
+
+link:https://twitter.com/ChaseAucoin[Chase Aucoin is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
