@@ -1,0 +1,33 @@
+:imagesdir: images
+:meta-description: Andrea Cremese wrote a dissertation on developer motivation.
+:title: Podcast 078 - Andrea Cremese on Developer Motivation
+:slug: Podcast-078-Andrea-Cremese-Developer-Motivation
+:tags: podcast, business
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/078AndreaCremesEngineerMotivation.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/078AndreaCremesEngineerMotivation.mp3
+:podcastsize: 23482343
+:podcastlength: 20:45
+
+Andrea Cremese wrote a dissertation on developer motivation.
+
+Show Notes:
+
+* Dissertation: - link:https://github.com/andreacremese/blog/blob/master/pdf/MBA%20dissertation.pdf[Managing Software Engineer's Engagement and the Psychological Contract to Promote Innovation: A Review of the Current Trends in the American Technology Industry.]
+* Frederick Herzberg talks about "hygiene factors" in the book: link:https://www.amazon.com/Motivation-Work-Frederick-Herzberg/dp/156000634X[Motivation to Work]
+* Check out link:https://crosscuttingconcerns.com/Podcast-036---Kevin-Groves-on-Pirates-of-Silicon-Valley[episode 36 on the film Pirates of Silicon Valley] for some talk about Xerox PARC
+* Some positive examples, per Andrea:
+** Satya Nadella, CEO of Microsoft
+** Amazon
+** Smartsheet
+* link:https://www.glassdoor.com[Glassdoor] is a site where employees review their employer. I'm not terribly keen on it, especially when there is a small sample size, but it could be a useful tool in some situations.
+* TODO: Money and Motivation - dana? danna? + really? re-AL-eee? - LSC
+* Book: link:https://www.amazon.com/Honest-Truth-About-Dishonesty-Everyone-Especially/dp/0062183613[The Honest Truth About Dishonesty]
+* In the same vein as Pirates of Silicon Valley, check out link:https://www.amazon.com/Triumph-Nerds-Bob-Cringely/dp/B00006FXQO[The Triumph of the Nerds]
+* Halt and Catch Fire! You should check this show out. I personally can't get enough of the link:https://www.youtube.com/watch?v=yD_kCKiSkoI[opening theme]. Here's a link:https://www.youtube.com/watch?v=cy3C3LBSPlk[part of one my favorite scenes in the series] (minor spoiler alert if you haven't watched any of the show)
+* Not related to the dissertation at all, but link:https://www.youtube.com/watch?v=eVTzcI48X6c[check out Better Call Saul (NSFW language)]
+
+link:https://twitter.com/andreacremese[Andrea Cremes is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
