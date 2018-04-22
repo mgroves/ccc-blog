@@ -1,0 +1,38 @@
+:imagesdir: images
+:meta-description: Jeffrey Miller wrote a children's book.
+:title: Podcast 079 Jeffrey Miller on Writing a Children's Book
+:slug: Podcast-079-Jeffrey-Miller-writing-childrens-book
+:tags: podcast, writing
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/079JeffreyMillerChildrensBook.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/079JeffreyMillerChildrensBook.mp3
+:podcastsize: 21224752
+:podcastlength: 16:52
+
+Jeffrey Miller wrote a children's book. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* The book: link:http://skeeterbooks.com/[SkeeterBooks.com]. Buy it and leave a review!
+* What is a link:https://www.youtube.com/watch?v=H2VzD7kbTzY[TRS-80]? The finest piece of affordable computing that the 80s had to offer, that's what!
+* link:https://www.devry.edu/[DeVry University]
+* link:https://www.eharmony.com/[eHarmony] (dating site)
+* We mentioned two publishing companies that I got mixed up: link:https://leanpub.com/[Leanpub] and link:https://pragprog.com/[The Pragmatic Bookshelf (PragProg)]
+** Jim Holmes's book, link:https://leanpub.com/theleadershipjourney[The Leadership Journey], is on Leanpub.
+* Author: link:https://www.amazon.com/Seth-Godin/e/B000AP9EH0/[Seth Godin] who is very prolific. I think I've ready a measly _one_ of his books, but I don't remember which one.
+* link:https://en.wikipedia.org/wiki/Minimum_viable_product[MVP (minimum viable product)]
+* Sure, I'll plug my book again: link:https://www.manning.com/books/aop-in-net[AOP in .NET] (I would _also_ appreciate a review)
+* There are a lot of Mastermind groups, like link:https://www.meetup.com/Columbus-Mastermind-Group/[Columbus Mastermind Group]
+* link:https://www.scbwi.org/[Society of Children's Book Writers and Illustrators (SCBWI)]
+* Amazon's link:https://kdp.amazon.com/en_US/[Kingle Direct Publishing (KDP)]
+* link:http://www.daleherron.com/[Dale Herron], illustrator of _Skeeters_
+* Book: link:http://www.bearablemoments.com/[Bearable Moments], by Christopher Judd (another pillar of the developer community)
+* Conference link:http://www.codemash.org/[CodeMash]
+* Book: link:https://www.kickstarter.com/projects/lindaliukas/hello-ruby[Hello Ruby (Kickstarter)]
+* _Hello Ruby_ is by Linda Liukas, who was on link:https://hanselminutes.com/547/hello-ruby-with-linda-liukas[The Hanselminutes Podcast (episode #547)]
+* Book: link:https://www.amazon.com/Lauren-Ipsum-Carlos-Bueno/dp/1461178185[Lauren Ipsum] by Carlos Bueno
+
+link:https://twitter.com/xagronaut[Jeffrey Miller is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
