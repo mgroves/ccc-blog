@@ -1,0 +1,42 @@
+:imagesdir: images
+:meta-description: Craig Stuntz is manipulating .NET IL.
+:title: Podcast 080 - Craig Stuntz on .NET IL
+:slug: Podcast-080-Craig-Stuntz-dotnet-IL
+:tags: podcast, .net, IL, CIL, MSIL
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/080CraigStuntzDotNetIL.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/080CraigStuntzDotNetIL.mp3
+:podcastsize: 23955208
+:podcastlength: 20:23
+
+Craig Stuntz is manipulating .NET IL. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Craig Stuntz was the second guest I ever had on the show. link:https://crosscuttingconcerns.com/Cross-Cutting-Concerns-Podcast-002---Craig-Stuntz-on-Idris[Check out Podcast 002 - Craig Stuntz on Idris]
+* Craig was at link:https://codemash.org[CodeMash] presenting with link:https://speakerdeck.com/craigstuntz/dot-net-il-into-the-marianas-trench-with-presenter-notes[these slides]
+* JIT = link:https://en.wikipedia.org/wiki/Just-in-time_compilation[Just-in-time (compilation)]
+* link:https://github.com/imasahiro/rujit[RuJIT] was mentioned
+* I dare you to keep these straight:
+** link:https://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx[ILAsm.exe] - IL Assembler
+** link:https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler[ILDasm] - IL Disassembler
+** ILASM
+* link:https://msdn.microsoft.com/en-us/library/bb429476.aspx[FxCop]
+* I don't think he mentioned it by name, but I think link:https://github.com/CraigStuntz/Fizil[Fizil] is the fuzzer that he's working on.
+* link:http://sqlite.org[SQLite] created by link:http://www.hwaci.com/drh/[Dr. D. Richard Hipp]
+* link:http://cecil.pe/[Mono.Cecil], part of the Mono project. link:https://github.com/0xd4d/dnlib[DNLib] is another similar tool.
+* Sure, I'll plug my book again, since we mentioned AOP. link:https://www.manning.com/books/aop-in-net[AOP in .NET]
+* Obfuscation is a technique to prevent people from reverse engineering/tampering with your code. link:https://www.preemptive.com/products/dotfuscator/overview[Dotfuscator] is one of the tools that comes to mind.
+* Blog post: link:http://www.baeldung.com/java-type-erasure["type erasure" in Java]
+* Blog post: link:https://blogs.msdn.microsoft.com/fsharpteam/2011/07/08/tail-calls-in-f/[tail calls in F#]
+* The "goat behind door number 2" is a reference to the link:https://en.wikipedia.org/wiki/Monty_Hall_problem[Monty Hall Paradox] (which is a great discussion topic for parties)
+* Book: link:https://www.amazon.com/NET-Assembler-Serge-Lidin/dp/1430267615[.NET IL Assembler] by Serge Lidin
+* ECMA 335 is the Common Language Infrastructure standard. I'd like to ecma-international.org, but their site seems to be broken at the moment.
+* Good ol' link:http://www.linqpad.net/[LINQPad]
+* link:https://github.com/0xd4d/dnSpy[dnSpy]
+* Meetup: link:https://www.meetup.com/Papers-We-Love-Columbus/[Papers We Love Columbus]
+
+link:https://twitter.com/craigstuntz[Craig Stuntz is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
