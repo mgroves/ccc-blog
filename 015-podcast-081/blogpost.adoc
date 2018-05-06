@@ -1,0 +1,33 @@
+:imagesdir: images
+:meta-description: Calvin Allen talks with me on a variety of topics.
+:title: Podcast 081 - Calvin Allen on a potpourri of topics
+:slug: Podcast-081-Calvin-Allen-potpourri-topics
+:tags: podcast, streaming, visual studio, couchbase
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/081CalvinAllenPotpourri.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/081CalvinAllenPotpourri.mp3
+:podcastsize: 24536607
+:podcastlength: 19:36
+
+Calvin Allen talks with me on a variety of topics. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* I think Calvin may have done some rebranding since we recorded. Check out link:https://www.twitch.tv/calvinallen83[CalvinAllen83] on Twitch.
+* Streaming services mentioned: link:https://mixer.com/[Mixer], YouTube, and Twitch.
+* link:https://restream.io/channel[restream.io], which I'm now using for...
+* link:http://tinyurl.com/cbcoding[Couchbase Coding with Matt Groves], a show where I'm streaming daily.
+* Jeff Fritz's live stream: link:https://www.twitch.tv/csharpfritz[Fritz and Friends]
+* link:https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox[SQLite Toolbox Visual Studio extension]
+* Visual Studio extensions by link:http://vsixgallery.com/author/mads%20kristensen[Mads Kristensen]
+* Calvin's link:https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad[Open in Notepad++] extension (link:https://github.com/calvinallen/OpenInNotepadPlusPlus[GitHub]), link:https://github.com/calvinallen/CouchbaseExplorer[Couchbase extension on GitHub]
+* I used the term MVP in this episode to mean link:https://en.wikipedia.org/wiki/Minimum_viable_product[Minimum Viable Product]
+* link:https://www.netlify.com/[Netlify]
+* link:https://www.gatsbyjs.org/[GatsbyJS]
+* link:https://en.wikipedia.org/wiki/Man-in-the-middle_attack[Man-in-the-middle attack]
+* link:https://www.ssllabs.com/[SSL Labs] rating
+
+link:https://twitter.com/_calvinallen[Calvin Allen is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
