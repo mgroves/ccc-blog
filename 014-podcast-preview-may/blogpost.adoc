@@ -1,0 +1,36 @@
+:imagesdir: images
+:meta-description: David
+:title: Podcast Preview - May 2018
+:slug: Podcast-Preview-May-2018
+:tags: podcast
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net/images/speaker.png
+:podcastpath:
+:podcastsize:
+:podcastlength:
+
+The podcast keeps rolling in May, with more great guests!
+
+*Reminders:*
+
+* Be sure to check out my sponsor: link:https://smartsheet.com/crosscuttingconcerns[Smartsheet]! Thanks to them, I'm able to afford some new equipment, more hosting, and the JavaScript game show prizes!
+* If you're enjoying the new JavaScript game show, link:https://crosscuttingconcerns.com/Contact[please send in your suggestions]. I'm running out of ideas, and you and your ideas could be featured on this show. I need real __and__ made-up suggestions! The sillier the names, the better.
+* I rarely talk about this, but if you would be so kind as to *tell a friend* about the show, *post about it on Facebook or Twitter*, and *leave a review* on iTunes or Google Play or wherever else, I would be forever grateful!
+
+Subscribe now!
+
+* link:http://feeds.feedburner.com/CrossCuttingConcernsPodcast[RSS feed]
+* link:https://itunes.apple.com/us/podcast/cross-cutting-concerns-podcast/id1118950133?mt=2[iTunes]
+* link:https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/Itdw4st6e5b45a7t6t6a772otue?t%3DCross_Cutting_Concerns_Podcast[Google Play]
+* link:http://www.stitcher.com/podcast/cross-cutting-concerns[Stitcher]
+
+Here's what's coming in March:
+
+* My good pal Calvin Allen is back, talking about a potpourri of topics on his mind.
+* The great Doc Norton talking about the experimentation mindset.
+* James Munns talking about embedded programming.
+* The legendary David Neal returns to talk about his artwork, which has taken over Twitter lately.
+* And maybe, just maybe, one extra special episode this month.
+
+Subscribe now with your podcatcher of choice!
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
