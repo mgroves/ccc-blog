@@ -1,0 +1,27 @@
+:imagesdir: images
+:meta-description: Doc Norton talks about the experimentation mindset.
+:title: Podcast 082 - Doc Norton on Experimentation
+:slug: Podcast-082-Doc-Norton-Experimentation
+:tags: podcast, business, experimentation, agile, xp, scrum
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/082DocNortonExperimentation.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/082DocNortonExperimentation.mp3
+:podcastsize: 17406129
+:podcastlength: 15:30
+
+Doc Norton talks about the experimentation mindset. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:https://speakerdeck.com/docondev/experimentation-mindset[Slides] from Doc's presentation on the experimentation mindset
+* XP = eXtreme Programming
+* Other methodologies that fall into the "agile" category: Scrum, Lean
+* link:https://en.wikipedia.org/wiki/Kent_Beck[Kent Beck], link:https://en.wikipedia.org/wiki/Ron_Jeffries[Ron Jeffries], and link:https://en.wikipedia.org/wiki/Ward_Cunningham[Ward Cunningham] were all mentioned. They are all signers of the link:http://agilemanifesto.org/[Agile Manifesto].
+* link:https://www.amazon.com/Chris-Argyris/e/B000APA4DI/[Chris Argyris] was mentioned in regards to link:http://infed.org/mobi/chris-argyris-theories-of-action-double-loop-learning-and-organizational-learning/[single-loop and double-loop learning]
+* [[more links from Doc]]
+* Book: link:https://leanpub.com/escapevelocity[Escape Velocity by Doc Norton] - it has increased in price since the recording. It will now set you back at least 5 entire dollars.
+
+link:https://twitter.com/DocOnDev[Doc Norton is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
