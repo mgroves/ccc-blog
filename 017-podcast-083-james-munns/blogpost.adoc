@@ -1,0 +1,27 @@
+:imagesdir: images
+:meta-description: James Munns is an embedded developer.
+:title: Podcast 083 - James Munns on Embedded Development
+:slug: Podcast-083-James-Munns-Embedded-Development
+:tags: podcast, embedded, c, rust
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/083JamesMunnsEmbedded.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/083JamesMunnsEmbedded.mp3
+:podcastsize: 22251071
+:podcastlength: 18:40
+
+James Munns is an embedded developer. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* ARM (aka Advanced RISC Machine, Acorn RISC Machine) is a RISC architecture for processors. You probably have dozens of them in your house right now.
+* Check out link:https://crosscuttingconcerns.com/Podcast-012-Sophie-Wilson-on-Acorn-ARM-BASIC[episode 12 of the podcast where I talked to Sophie Wilson], the designer of ARM
+* link:https://jamesmunns.com[James Munns's blog]
+* Blog Post: link:https://jamesmunns.com/blog/hardware-ci-overview/[CI for Embedded Systems], which covers some of the testing that was discussed
+* Podcast: link:https://www.embedded.fm/[Embedded.fm] hosted by Elecia and Christopher White.
+* Podcast: link:https://newrustacean.com/[New Rustacean] hosted by Chris Krycho
+* The link:https://github.com/rust-lang-nursery/embedded-wg[Rust Embedded Working Group]
+
+link:https://twitter.com/bitshiftmask[James Munns is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
