@@ -13,12 +13,34 @@ Doc Norton talks about the experimentation mindset. This episode is sponsored by
 Show Notes:
 
 * link:https://speakerdeck.com/docondev/experimentation-mindset[Slides] from Doc's presentation on the experimentation mindset
-* XP = eXtreme Programming
+* link:http://www.extremeprogramming.org/[XP = eXtreme Programming]
 * Other methodologies that fall into the "agile" category: Scrum, Lean
 * link:https://en.wikipedia.org/wiki/Kent_Beck[Kent Beck], link:https://en.wikipedia.org/wiki/Ron_Jeffries[Ron Jeffries], and link:https://en.wikipedia.org/wiki/Ward_Cunningham[Ward Cunningham] were all mentioned. They are all signers of the link:http://agilemanifesto.org/[Agile Manifesto].
-* link:https://www.amazon.com/Chris-Argyris/e/B000APA4DI/[Chris Argyris] was mentioned in regards to link:http://infed.org/mobi/chris-argyris-theories-of-action-double-loop-learning-and-organizational-learning/[single-loop and double-loop learning]
-* [[more links from Doc]]
+* link:https://www.amazon.com/Chris-Argyris/e/B000APA4DI/[Chris Argyris] was mentioned in regards to link:https://hbr.org/1977/09/double-loop-learning-in-organizations[single-loop and double-loop learning]
 * Book: link:https://leanpub.com/escapevelocity[Escape Velocity by Doc Norton] - it has increased in price since the recording. It will now set you back at least 5 entire dollars.
+
+Supplemental links from Doc:
+
+* link:http://www.wearecto2.com/[CTO2]
+* link:http://www.docondev.com/[DocOnDev]
+* link:http://www.collaborationcontracts.com/[Collaboration Contracts]
+* link:https://refactoring.com/[Refactoring]
+* link:http://wiki.c2.com/?CodeSmell[Code Smells]
+* Video: link:https://www.youtube.com/watch?v=9Khvf1oExds[Experimentation Mindset]
+* link:https://en.wikipedia.org/wiki/Mob_programming[Mob Programming]
+* link:http://lifehacker.com/5985565/how-and-why-to-intentionally-set-yourself-up-for-failure[Learning through experimentation]
+* PDF: link:http://www.areteadventures.com/articles/the_challenge_of_entering_the_green_room.pdf[How Organizations Learn]
+* From Harvard Business Review:
+** link:http://hbr.org/2014/06/collective-genius/ar/1[Collective Genius]
+** link:http://hbr.org/1991/05/teaching-smart-people-how-to-learn/ar/1[Argyris: Teaching Smart People how to Learn] (link:http://pds8.egloos.com/pds/200805/20/87/chris_argyris_learning.pdf[and PDF version])
+** link:https://hbr.org/2014/02/ab-testing-and-the-benefits-of-an-experimentation-culture/[A/B Testing and the Experimentation Culture]
+** link:https://hbr.org/2001/02/enlightened-experimentation-the-new-imperative-for-innovation/ar/4[Enlightened Experimentation]
+** link:https://hbr.org/2011/03/a-step-by-step-guide-to-smart-business-experiments/ar/1[Smart Business Experiments]
+** link:https://hbr.org/2006/01/evidence-based-management/ar/5[Evidence Based Management]
+* link:http://www.edbatista.com/2008/05/double-loop.html[Ed Batista blog post on double-loop learning
+* link:http://www.lean.org/LeanPost/Posting.cfm?LeanPostId=225[Lean Change]
+* Book: link:http://www.amazon.com/Scaling-up-Excellence-Hayagreeva-Rao-ebook/dp/B00EGMQIDG[Scaling Up Excellence]
+* link:https://en.wikipedia.org/wiki/Experiential_learning[Experiential Learning]
 
 link:https://twitter.com/DocOnDev[Doc Norton is on Twitter].
 
