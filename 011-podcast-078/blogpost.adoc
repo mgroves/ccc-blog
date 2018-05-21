@@ -20,7 +20,17 @@ Show Notes:
 ** Amazon
 ** Smartsheet
 * link:https://www.glassdoor.com[Glassdoor] is a site where employees review their employer. I'm not terribly keen on it, especially when there is a small sample size, but it could be a useful tool in some situations.
-* TODO: Money and Motivation - dana? danna? + really? re-AL-eee? - LSC
+* Dan Ariely was mentioned, check out his TED talk link:https://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work[What makes us feel good about our work?]
+* Some quotes regarding Ariely that Andrea wanted me to share:
+** link:https://www.cmu.edu/dietrich/sds/docs/loewenstein/LargeStakesBigMistakes.pdf[Large Stakes and Big Mistakes], (Dan Ariely one of the authors), quote: "Workers in a wide variety of jobs are paid based on performance, which is commonly seen as enhancing
+effort and productivity relative to non-contingent pay schemes. However, psychological research
+suggests that excessive rewards can, in some cases, result in a decline in performance. To test whether
+very high monetary rewards can decrease performance, we conducted a set of experiments in the U.S.
+and in India in which subjects worked on different tasks and received performance-contingent payments
+that varied in amount from small to very large relative to their typical levels of pay. With some important
+exceptions, very high reward levels had a detrimental effect on performance."
+** link:http://www.bbc.com/future/story/20120509-is-it-all-about-the-money[Does money really motivate people?], quotes: "But maybe the small sums involved in Ariely's example and Deci's experiments undermine their application to real-world international business and finance. To address this, Ariely and colleagues, recruited villagers in India to play games testing memory, creativity and motor skills, offering three different groups four, 40 or 400 rupees per game for scoring highly. The maximum reward was equivalent to the amount spent by the average person living in rural India in five months. They found that those offered the highest incentives performed worst, earning an average of 20% of the maximum possible, compared to around 36% for those in the low and medium reward groups. "Our results challenge the assumption that an increase in motivation would necessarily lead to improvements in performance," says Ariely."
+** And: "If I gave you a bigger bonus to jump you would jump more times," says Ariely. "You have very good control over your legs and if I give you more money you will transmit more power to them and therefore you will be more successful. We don't have the same control over memory, creativity and concentration. You can't will yourself into a higher state of concentration and creativity. It's actually counterproductive and hinders performance strongly." Anyone that has tried to force themselves to concentrate can probably relate to those findings. But there are also more subtle effects of motivation that can be teased apart using these new techniques.""
 * Book: link:https://www.amazon.com/Honest-Truth-About-Dishonesty-Everyone-Especially/dp/0062183613[The Honest Truth About Dishonesty]
 * In the same vein as Pirates of Silicon Valley, check out link:https://www.amazon.com/Triumph-Nerds-Bob-Cringely/dp/B00006FXQO[The Triumph of the Nerds]
 * Halt and Catch Fire! You should check this show out. I personally can't get enough of the link:https://www.youtube.com/watch?v=yD_kCKiSkoI[opening theme]. Here's a link:https://www.youtube.com/watch?v=cy3C3LBSPlk[part of one my favorite scenes in the series] (minor spoiler alert if you haven't watched any of the show)

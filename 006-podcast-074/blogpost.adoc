@@ -3,7 +3,7 @@
 :title: Podcast 074 - Jeffrey Miller on Neo4j
 :slug: Podcast-074-Jeffrey-Miller-Neo4j
 :tags: podcast, neo4j, nosql, graph, database
-:heroimage: https://crosscuttingconcerns.blob.core.windows.net/podcasts/074JeffreyMillerNeo4j.png
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net/podcasts/074JeffreyMillerNeo4j.jpg
 :podcastpath: https://crosscuttingconcerns.blob.core.windows.net/podcasts/074JeffreyMillerNeo4j.mp3
 :podcastsize: 21191217
 :podcastlength: 16:39
