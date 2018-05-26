@@ -1,0 +1,32 @@
+:imagesdir: images
+:meta-description: David Neal is taking over Twitter with his drawing.
+:title: Podcast 084 - David Neal on Drawing
+:slug: Podcast-084-David-Neal-Drawing
+:tags: podcast, drawing, art, public speaking
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/084DavidNealDrawing.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/084DavidNealDrawing.mp3
+:podcastsize: 21528319
+:podcastlength: 18:34
+
+David Neal is taking over Twitter with his drawing. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Video: link:https://www.youtube.com/watch?v=Y1SMm4mOV9A[Dan Roam, Show and Tell] (at Google)
+* Book: link:http://www.danroam.com/show-tell/[Show and Tell] by Dan Roam
+* Event: link:http://orlandocodecamp.com/[Orlando Code Camp]
+* Tools: link:https://www.apple.com/ipad-pro/[iPad Pro] with link:https://www.apple.com/apple-pencil/[Apple Pencil]
+* Also mentioned: link:https://www.microsoft.com/en-us/store/b/surface[Microsoft Surface Pro with Stylus]
+* Video on link:https://www.youtube.com/watch?v=VtYWTk62yRA["palm rejection"]
+* David mentioned link:https://itunes.apple.com/us/app/tayasui-sketches-pro/id671867510?mt=8[Sketches Pro] (aka Tayasui Sketches Pro, I think)
+* He also mentioned link:https://itunes.apple.com/us/app/adobe-illustrator-draw/id911156590/[Adobe Draw] (aka Adobe Illustrator Draw, I think)
+* link:https://twitter.com/reverentgeek/status/789135336437800960[The Slash guitar player drawing]
+* Buy stuff from David, including link:http://reverentgeek.com/buy-my-stuff/[T-Shirts] like link:https://www.amazon.com/Employees-Hands-After-JavaScript-T-Shirt/dp/B0796HSN1B["Employees Must Wash Hands After Using JavaScript" shirt]
+* Books: link:http://rohdesign.com/book/[Mike Rohde books on Sketechnote]
+* Check out link:http://reverentgeek.com/[ReverentGeek.com blog]
+
+link:https://twitter.com/reverentgeek[David Neal is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
