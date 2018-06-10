@@ -1,0 +1,27 @@
+:imagesdir: images
+:meta-description: Joel Lord is using passwordless authentication.
+:title: Podcast 086 - Joel Lord on Passwordless Authentication
+:slug: Podcast-086-Joel-Lord-Passwordless-Authentication
+:tags: podcast, security, passwordless, authentication, authorization
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/086JoelLordPasswordlessAuthentication.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/086JoelLordPasswordlessAuthentication.mp3
+:podcastsize: 20779133
+:podcastlength: 16:45
+
+Joel Lord is using passwordless authentication. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Joel works for link:https://auth0.com/[Auth0]
+* xkcd comic called link:https://www.xkcd.com/936/["password strength"]
+* Check out episode 71, link:https://crosscuttingconcerns.com/Podcast-071-Bill-Sempf-on-Sneakers[Bill Sempf talking about security in the movie 'Sneakers']
+* link:https://get.slack.help/hc/en-us/articles/212681477-Sign-in-to-Slack[Slack uses a 'magic link'] passwordless system
+* What is a link:https://www.theatlantic.com/technology/archive/2013/07/the-origin-of-the-word-dongle-7-leading-theories/278180/[dongle]? There are a lot of security dongles, here's one called link:https://www.youtube.com/watch?v=j4pXxfgmxWM[ChaosKey].
+* The link:https://auth0.com/blog/[Auth0 blog]
+* Joel's site: link:http://www.javascripteverything.com[JavaScriptEverything.com]
+
+link:https://twitter.com/joel__lord[Joel Lord is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
