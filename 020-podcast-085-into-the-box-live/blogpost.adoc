@@ -1,0 +1,42 @@
+:imagesdir: images
+:meta-description: The first LIVE episode of Cross Cutting Concerns, recorded at the Into the Box conference.
+:title: Podcast 085 - ColdFusion Panel (LIVE!)
+:slug: Podcast-085-ColdFusion-Panel-LIVE
+:tags: podcast, coldfusion
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/085IntoTheBoxLive.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/085IntoTheBoxLive.mp3
+:podcastsize: 35615526
+:podcastlength: 28:41
+
+The first LIVE episode of Cross Cutting Concerns, recorded at the Into the Box conference with a panel of guests. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+The panel:
+
+* Rakshith Naresh (Senior Product Manager at Adobe) is link:https://twitter.com/rakshithn[on Twitter].
+* Mark Drew (CMD) is link:https://twitter.com/markdrew[on Twitter]
+* Brad Wood (Ortus Solutions) is link:https://twitter.com/bdw429s[on Twitter] and can be summoned "like Beetlejuice" by just saying "ColdFusion" on Twitter.
+* Luis Majano (Ortus Solutions) is link:https://twitter.com/lmajano[on Twitter].
+
+Show Notes:
+
+* link:https://www.coldbox.org/[Coldbox]
+* link:https://www.ortussolutions.com/products/commandbox[CommandBox]
+* Event: link:https://cfsummit.adobeevents.com/[ColdFusion Summit]
+* link:https://www.shop.com/[Shop.com] was mentioned
+* link:https://www.ca.com/us/company/acquisitions/layer-7-is-now-ca-technologies.html[Layer 7] was mentioned, I believe that is part of a different company now.
+* ColdFusion API Manager and ColdFusion Server Monitor were mentioned (along with Performance Monitoring Toolset)
+* Book: link:https://www.ortussolutions.com/learn/coldfusion[Learn Modern ColdFusion (CFML) in 100 Minutes]
+* Training: link:http://learncfinaweek.com/[Learn CF in a Week]
+* link:http://exercism.io/languages/cfml/about[Exercism.io Course on CFML]
+* link:http://cfml-slack.herokuapp.com/[CFML Slack Team]
+* link:https://coldfusion.adobe.com/[ColdFusion Community Portal]
+* link:https://cffiddle.org/[ColdFusion Fiddle]
+* link:https://www.trycf.com/[Try ColdFusion]
+* link:https://www.forgebox.io/[ForgeBox] which is the "npm" of ColdFusion.
+** A couple of the odd named packages were link:https://www.forgebox.io/view/CommandBox-Chuck-Norris[CommandBox Chuck Norris] and link:https://www.forgebox.io/view/dumbpassword[DumbPassword]
+* link:https://cfdocs.org/[CFDocs]
+* link:http://cfscript.me/[CFScript.me]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
