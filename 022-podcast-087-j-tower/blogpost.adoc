@@ -1,0 +1,32 @@
+:imagesdir: images
+:meta-description: J Tower is working from home.
+:title: Podcast 087 - J Tower on Remote Work
+:slug: Podcast-087-J-Tower-Remote Work
+:tags: podcast, personal, business, remote
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/087JTowerRemoteWork.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/087JTowerRemoteWork.mp3
+:podcastsize: 21266482
+:podcastlength: 19:06
+
+J Tower is working from home. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Coworking was discussed. Check out link:https://coworkingmap.org[Global Coworking Map]
+* I believe the Steve Jobs quote referenced is: "A small team of A+ players can run circles around a giant team of B and C players". You can hear a variation of it in this link:https://www.youtube.com/watch?v=7yh7ikSQwKg[Steve Jobs video]
+* Some of the remote work news stories mentioned:
+** link:http://money.cnn.com/2013/02/25/technology/yahoo-work-from-home/index.html[Marissa Mayer: Yahoos can no longer work from home]
+** link:https://www.wsj.com/articles/ibm-a-pioneer-of-remote-work-calls-workers-back-to-the-office-1495108802[IBM, a Pioneer of Remote Work, Calls Workers Back to the Office]
+** link:https://www.fastcompany.com/3036660/reddit-gives-remote-employees-until-end-of-year-to-relocate-to-san-francisco[Reddit Gives Remote Employees Until End Of Year To Relocate To San Francisco]
+** I think I mentioned GitHub in the podcast, but I may have been mistaken about that? I can't find a news story about it. So, my mistake.
+* Book: link:https://basecamp.com/books/remote[Remote: Office Not Required] by Jason Fried and DHH
+* Book: link:https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205[The Hard Thing About Hard Things] by Ben Horowitz
+* J Tower's company is link:https://trailheadtechnology.com/[Trailhead Technology Partners]
+* J wrote a blog post called link:https://trailheadtechnology.com/working-from-home-for-fun-and-profit/[Working from Home for Fun and Profit]
+* Don't forget to check out link:http://beercitycode.com/[Beer City Code]. It's coming up soon! I'll see you there!
+
+link:https://twitter.com/JTowerMI[J Tower is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
