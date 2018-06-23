@@ -1,0 +1,30 @@
+:imagesdir: images
+:meta-description: Chris Gardner is organizing the DevSpace conference.
+:title: Podcast 088 - Chris Gardner on Running Conferences
+:slug: Podcast-088-Chris-Gardner-Running-Conferences
+:tags: podcast, conferences, community
+:heroimage: 
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/088ChrisGardnerConferences.mp3
+:podcastsize: 18374004
+:podcastlength: 15:27
+
+Chris Gardner is organizing the DevSpace conference. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:https://en.wikipedia.org/wiki/Redstone_Arsenal[Redstone Arsenal] is a U.S. Army post
+* The link:https://www.rocketcenter.com/[U.S. Space & Rocket Center] is in Huntsville
+* Company mentioned: link:http://www.intergraph.com/[Intergraph & Hexagon]
+* The "hallway conference" is a term referring the elements of a conference that take place outside of the normal breakout sessions. Follow-up conversations, networking, maybe even impromptu learning and hacking.
+* We talked briefly about embedded development. Be sure to listen to link:https://crosscuttingconcerns.com/Podcast-083-James-Munns-Embedded-Development[Episode 083 with James Munns]
+* For another episode about conferences, be sure to check out link:https://crosscuttingconcerns.com/Podcast-040---Matthew-Revell-on-Developer-Conferences[Episode 040 with Matthew Revell]
+* link:https://www.uah.edu/[The University of Alabama in Huntsville]
+* Other conference mentioned: link:http://www.codepalousa.com/[Code PaLOUsa] and link:https://www.thatconference.com/[THAT Conference]
+* "Gaines" was also mentioned. This is Gaines Kergosien, the director of link:https://www.musiccitycode.com/[Music City Tech], where this episode was recorded.
+* And last but not least, Chris's conference: link:https://www.devspaceconf.com/[DevSpace]
+
+link:https://twitter.com/freestylecoder[Chris Gardner is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
