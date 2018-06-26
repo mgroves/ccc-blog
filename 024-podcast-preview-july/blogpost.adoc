@@ -1,0 +1,36 @@
+:imagesdir: images
+:meta-description: Podcast episodes coming in July 2018.
+:title: Podcast Preview - July 2018
+:slug: Podcast-Preview-July-2018
+:tags: podcast
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net/images/speaker.png
+:podcastpath:
+:podcastsize:
+:podcastlength:
+
+Summer time and the podcast is getting heated up.
+
+*Reminders:*
+
+* Please *tell a friend* about the show, *post about it on Facebook or Twitter*, and *leave a review* on iTunes or Google Play (or wherever else).
+* Be sure to check out my sponsor: link:https://smartsheet.com/crosscuttingconcerns[Smartsheet]! Thanks to them, I'm able to afford some new equipment, more hosting, and the JavaScript game show prizes!
+* If you're enjoying the new JavaScript game show, link:https://crosscuttingconcerns.com/Contact[please send in your suggestions]. I'm running out of ideas, and you and your ideas could be featured on this show. I need real __and__ made-up suggestions! The sillier the names, the better.
+
+Subscribe now!
+
+* link:http://feeds.feedburner.com/CrossCuttingConcernsPodcast[RSS feed]
+* link:https://itunes.apple.com/us/podcast/cross-cutting-concerns-podcast/id1118950133?mt=2[iTunes]
+* link:https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/Itdw4st6e5b45a7t6t6a772otue?t%3DCross_Cutting_Concerns_Podcast[Google Play]
+* link:http://www.stitcher.com/podcast/cross-cutting-concerns[Stitcher]
+
+Here's what's coming in July:
+
+* Steve Hicks on speaking at conferences
+* Cassandra Faris on social media
+* Ondrej Balas on blockchain
+* Jake Taylor on TEALS
+* One more episode I haven't recorded yet!
+
+Subscribe now with your podcatcher of choice!
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
