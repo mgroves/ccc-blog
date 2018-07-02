@@ -1,0 +1,24 @@
+:imagesdir: images
+:meta-description: Steve Hicks is speaking at conferences.
+:title: Podcast 089 - Steve Hicks on Speaking
+:slug: Podcast-089-Steve-Hicks-Speaking
+:tags: podcast, conferences, community
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/089SteveHicksSpeaking.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/089SteveHicksSpeaking.mp3
+:podcastsize: 19418888
+:podcastlength: 18:19
+
+Steve Hicks is speaking at conferences. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Mailing list: link:https://tinyletter.com/techspeak[Technically Speaking] by link:https://twitter.com/techspeakdigest[Chiu-Ki and Cate]
+* link:https://speaking.io/[Speaking.io]
+* link:https://www.creamcitycode.com/[Cream City Code] conference in Milwaukee
+* link:https://www.thatconference.com/[THAT Conference]
+
+link:https://twitter.com/pepopowitz[Steve Hicks is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
