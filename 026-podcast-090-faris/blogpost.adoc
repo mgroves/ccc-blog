@@ -1,0 +1,31 @@
+:imagesdir: images
+:meta-description: Cassandra Faris is using social media.
+:title: Podcast 090 - Cassandra Faris on Social Media
+:slug: Podcast-090-Cassandra-Faris-Social-Media
+:tags: podcast, community, social media, marketing, branding
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/090CassandraFarisSocialMedia.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/090CassandraFarisSocialMedia.mp3
+:podcastsize: 20640337
+:podcastlength: 20:13
+
+Cassandra Faris is using social media. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Social networks discussed:
+** link:https://www.instagram.com/[Instagram]
+** link:https://whatis.snapchat.com/[Snapchat]
+** link:https://www.facebook.com/[Facebook]
+** link:https://twitter.com/signup[Twitter]
+** link:https://www.linkedin.com/[LinkedIn]
+* Incidentally, these are all great place to tell your friends that you listen to this podcast!
+* Book: link:https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905[To Sell Is Human] by Dan Pink
+* Book: link:https://www.amazon.com/SPEED-TRUST-Thing-Changes-Everything/dp/1416549005[The Speed of Trust] by Stephen M. Covey
+* Conference: link:http://dogfoodcon.com/[Dog Food Con]
+* Why "dogfooding"? From IEEE: link:https://www.computer.org/csdl/mags/so/2006/03/s3005.html[Eating Your Own Dog Food]
+
+link:https://twitter.com/cassandrafaris[Cassandra Faris is on Twitter], of course!
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
