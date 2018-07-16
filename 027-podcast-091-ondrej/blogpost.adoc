@@ -1,0 +1,31 @@
+:imagesdir: images
+:meta-description: Ondrej Balas is using Blockchain.
+:title: Podcast 091 - Ondrej Balas on Blockchain
+:slug: Podcast-091-Ondrej-Balas-Blockchain
+:tags: podcast, blockchain
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/091OndrejBalasBlockchain.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/091OndrejBalasBlockchain.mp3
+:podcastsize: 15056861
+:podcastlength: 13:59
+
+Ondrej Balas is using Blockchain. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:https://en.wikipedia.org/wiki/Blockchain[Blockchain]
+* I mentioned the link:https://www.investopedia.com/terms/c/coase-theorem.asp[Coase Theorem], because I wanted an excuse to put my MBA to use.
+* link:https://bitcoin.org/en/[Bitcoin] is perhaps the most popular currency that uses blockchain.
+* There are a couple different uses of the term "key frame" in video. I think Ondrej was referring to it as it's used in link:https://en.wikipedia.org/wiki/Video_compression_picture_types[video compression].
+* link:http://lightningbitcoin.io/[Lightning] is a way to decentralize bitcoin transactions to improve/increas throughput
+* link:https://en.bitcoin.it/wiki/Proof_of_work[Proof of Work] in blockchain
+* Some recent news about the link:https://www.computerworld.com/article/3289484/blockchain/delaware-to-test-blockchain-based-business-filing-system.html[Delaware Blockchain Initiative]
+* Videos on Channel 9:
+** link:https://channel9.msdn.com/Blogs/Seth-Juarez/An-Introduction-to-Blockchain-with-Mark-Russinovich[An Introduction to Blockchain with Mark Russinovich]
+** link:https://channel9.msdn.com/Blogs/Seth-Juarez/Inside-Coco-Framework-the-Foundation-of-Blockchain-for-Enterprise-with-Mark-Russinovich[Inside Coco Framework, the Foundation of Blockchain for Enterprise with Mark Russinovich]
+* link:https://www.thatconference.com/[THAT conference]
+
+link:https://twitter.com/ondrejbalas[Ondrej Balas is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
