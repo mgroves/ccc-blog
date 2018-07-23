@@ -1,0 +1,27 @@
+:imagesdir: images
+:meta-description: Jake Taylor and TEALS are advancing computer science in schools.
+:title: Podcast 092 - Jake Taylor on TEALS
+:slug: Podcast-092-Jake-Taylor-TEALS
+:tags: podcast, computer science, education
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/092JakeTaylorTEALS.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/092JakeTaylorTEALS.mp3
+:podcastsize: 20823274
+:podcastlength: 19:01
+
+Jake Taylor and TEALS are advancing computer science in schools. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:https://www.tealsk12.org/[TEALS]
+* link:https://www.microsoft.com/en-us/philanthropies/default.aspx[Microsoft Philanthropies]
+* The link:https://snap.berkeley.edu/[Snap programming language] (and here's a link:https://www.youtube.com/watch?v=xfHJZ2zWpjQ[video tutorial] on it)
+* "AP" was mentioned several times, I assume that's the link:https://apstudent.collegeboard.org/home[Advanced Placement] organization
+* link:https://code.org/educate/curriculum/apcsa[AP CS A] course
+* Jake is not on Twitter, but was kind enough to provide his email address in the episode.
+* TEALS had a booth at KCDC. I snapped a few photos: link:https://crosscuttingconcerns.blob.core.windows.net/images/teals-kcdc-1.jpg[Photo 1], link:https://crosscuttingconcerns.blob.core.windows.net/images/teals-kcdc-2.jpg[Photo 2]
+
+link:https://twitter.com/tealsk12org[TEALS is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
