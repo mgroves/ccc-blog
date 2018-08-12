@@ -1,0 +1,32 @@
+:imagesdir: images
+:meta-description: Jeremy Miller has created an open-source IoC tool called Lamar.
+:title: Podcast 094 - Jeremy Miller on Lamar
+:slug: Podcast-094-Jeremy-Miller-Lamar
+:tags: podcast, .net, ioc, dependency injection, dependency inversion, design patterns
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/094JeremyMillerLamar.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net/podcasts/094JeremyMillerLamar.mp3
+:podcastsize: 20830981
+:podcastlength: 18:28
+
+Jeremy Miller has created an open-source IoC tool called Lamar. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:https://jeremydmiller.com/2018/01/29/sunsetting-structuremap/[StructureMap has been sunsetted]
+* Instead, consider link:https://jasperfx.github.io/lamar/[Lamar] for your IoC container needs.
+* link:https://jasperfx.github.io/lamar/documentation/ioc/nested-containers/[Nested containers]
+* At one point I was rambling about ASP.NET Core's inability to use the service locator pattern. Some quick points:
+** Don't use Service Locator, there are lots of other better patterns to use.
+** DO NOT DO IT.
+** If you absolutely need it: here's a link:https://dotnetcoretutorials.com/2018/05/06/servicelocator-shim-for-net-core/[blog post about it].
+** I was incorrect in the podcast by making a sweeping statement about ASP.NET Core not having service locator. But for a very specific, narrow case where I wanted to use the service locator pattern recently, I was unable to do so. This might have been my own failing, or something that just isn't possible with the built-in ASP.NET IoC. I have not tried this very specific, narrow use case with Lamar yet.
+* I plugged my book, link:https://www.manning.com/books/aop-in-net[AOP in .NET] yet again.
+* Lamar is named after link:https://en.wikipedia.org/wiki/Mirabeau_B._Lamar[Mirabeau Lamar] (a hero of the Texas revolution)
+* Paper: link:https://martinfowler.com/articles/injection.html[Inversion of Control Containers and the Dependency Injection pattern] by Martin Fowler
+* link:https://gitter.im/JasperFx/Lamar[Gitter room for Lamar]
+
+link:https://twitter.com/jeremydmiller[Jeremy Miller is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
