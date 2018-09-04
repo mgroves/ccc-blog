@@ -1,0 +1,31 @@
+:imagesdir: images
+:meta-description: Arthur Doler is talking about Mental Health.
+:title: Podcast 095 - Arthur Doler on Mental Health
+:slug: Podcast-095-Arthur-Doler-Mental-Health
+:tags: podcast, mental health, psychology
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/095ArthurDolerMentalHealth.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/095ArthurDolerMentalHealth.mp3
+:podcastsize: 25078713
+:podcastlength: 20:24
+
+Arthur Doler is talking about Mental Health. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Check out episode 51 in the archives: link:https://crosscuttingconcerns.com/Podcast-051-Ed-Finkler-on-Open-Sourcing-Mental-Illness[Ed Finkler on Open Sourcing Mental Illness] and check out link:https://osmihelp.org/[OSMI]
+* The Department of Health and Human Services was mentioned. I think Arthur said link:https://www.hhs.gov/about/agencies/iea/regional-offices/region-6/index.html[region 6], but it looks like Nebraska is in link:https://www.hhs.gov/about/agencies/iea/regional-offices/region-7/index.html[region 7].
+* Burnout was mentioned briefly, so also check out episode 50: link:https://crosscuttingconcerns.com/Podcast-050-Peter-Piekarczyk-on-Burnout[Peter Piekarczyk on Burnout]
+* Project management methodologies mentioned: link:http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf[Waterfall (PDF)], link:https://www.scrumguides.org/[Scrum], link:http://agilemanifesto.org[agile]
+* link:http://www.history.org/Foundation/journal/Spring05/montpelier.cfm[The Restoration of James Madison's Montpelier]
+* NDC Oslo: link:https://ndcoslo.com/talk/lets-talk-about-mental-health/[Let's Talk About Mental Health]
+* "Gaslighting" is a link:https://en.oxforddictionaries.com/definition/gaslight[type of mental abuse], coined from the link:https://www.youtube.com/watch?v=0ToLfQU2xmg[stage play / movies] of the same title.
+* Video: link:https://www.youtube.com/watch?v=NHulgcO_16U[Strong Than Fear] by Ed Finkler
+* Course: link:https://www.mentalhealthfirstaid.org/take-a-course/find-a-course/[Mental health first aid]. I found 11 of them within 100 miles of me, coming up over the next two months.
+* link:https://arthurdoler.com/[ArthurDoler.com]
+* And don't forget to check out Arthur's last appearance on the show: link:https://crosscuttingconcerns.com/Podcast-042-Arthur-Doler-on-Retrospectives[Arthur Doler on Retrospectives]
+
+link:https://twitter.com/ArthurDoler[Arthur Doler is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!

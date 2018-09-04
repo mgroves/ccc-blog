@@ -1,0 +1,40 @@
+:imagesdir: images
+:meta-description: Sean Hunter is using Aurelia to write incredible front-end web software.
+:title: Podcast 096 - Sean Hunter on Aurelia
+:slug: Podcast-096-Sean-Hunter-Aurelia
+:tags: podcast, aurelia, javascript, SPA, typescript, ui, ux
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/096SeanHunterAurelia.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/096SeanHunterAurelia.mp3
+:podcastsize: 36881974
+:podcastlength: 23:35
+
+Sean Hunter is using Aurelia to write incredible front-end web software. (Please forgive me if I make any typos, Aurelia is hard for me to type correctly, even when I'm staring right at the word).
+
+**Special note:** there is a free ebook giveaway within this episode (courtesy of Manning Books). Make sure to listen right away if want to win one of four free copies of Sean's book!
+
+Show Notes:
+
+* Book: link:https://www.manning.com/books/aurelia-in-action[Aurelia in Action] - use coupon code **crosspodaur18** for 40% off!
+* Aurelia stuff discussed:
+** link:https://aurelia.io/docs/routing[Aurelia Router]
+** link:https://aurelia.io/docs/build-systems/aurelia-cli/[Aurelia CLI]
+** link:https://github.com/aurelia/ux[Aurelia UX]
+** link:https://discourse.aurelia.io/[Aurelia forums]
+** link:https://aurelia.io/learn/[Aurelia.io/learn]: resources to help you learn Aurelia!
+* Backend mentioned:
+** link:https://www.asp.net/web-api[ASP.NET WebAPI]
+** link:https://rubyonrails.org/[Ruby on Rails]
+** link:http://expressjs.com/[Node with Express]
+* Other SPA frameworks mentioned:
+** link:http://backbonejs.org/[Backbone.js]
+** link:https://angularjs.org/[Angular 1 aka AngularJS]
+** link:https://reactjs.org/[ReactJS]
+** link:https://vuejs.org/[VueJS]
+** link:https://angular.io/[Angular 2+ aka Angular.io aka Angular]
+* link:http://getbootstrap.com/[Bootstrap]
+
+link:https://twitter.com/mr_sean_hunter[Sean Hunter is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
