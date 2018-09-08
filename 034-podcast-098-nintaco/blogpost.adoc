@@ -1,0 +1,38 @@
+:imagesdir: images
+:meta-description: Eric Potter is writing code to play NES games.
+:title: Podcast 098 - Eric Potter on Nintaco
+:slug: Podcast-098-Eric-Potter-Nintaco
+:tags: podcast, emulation, nes, nintendo, gaming, api, c#
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/098EricPotterNintaco.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/098EricPotterNintaco.mp3
+:podcastsize: 23118269
+:podcastlength: 19:10
+
+Eric Potter is writing code to play NES games. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:http://nintaco.com/[Nintaco]
+* link:https://www.youtube.com/watch?v=eW9Hf3tCijc[R.O.B. video] from the NES Works video series
+* link:http://www.cs.cmu.edu/~tom7/[Tom Murphy aka Tom7]
+* Check out the link:https://www.youtube.com/watch?v=YGJHR9Ovszs[NES AI videos from Tom7]. I reference part 2 in this podcast. Check out starting at 18:11 especially.
+* Podcast: link:https://retronauts.com/[Retronauts]
+* Book: link:https://www.amazon.com/Racing-Beam-Computer-Platform-Studies/dp/026201257X[Racing the Beam]
+* link:https://www.apterainc.com/[Aptera]
+* Some of the games mentioned in this episode:
+** link:https://www.youtube.com/watch?v=UDhdKHyPwBo[Castlevania]
+** link:https://www.youtube.com/watch?v=9QbGb9LIS9U[Bomberman]
+** link:https://www.youtube.com/watch?v=vSssHzHam_o[Super Mario Brothers]
+** link:https://www.youtube.com/watch?v=Y0occ0FRZZE[Tecmo Super Bowl]
+** link:https://www.youtube.com/watch?v=V5T6HW-BKQ0[Heavy Barrel]
+** link:https://www.youtube.com/watch?v=xBsLV6R8mkc[Skate or Die]
+* link:https://www.nuget.org/packages/NintacoProxy/[NintacoProxy] on NuGet
+* link:http://www.romhacking.net/[ROMhacking.net] which includes memory locations, translations, and more.
+* Book: link:https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262028778[I Am Error]
+* Event: link:http://poncon.us/[PonCon], Sep 22nd 2018
+
+link:https://twitter.com/pottereric[Eric Potter is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
