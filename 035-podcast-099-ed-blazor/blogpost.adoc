@@ -1,0 +1,31 @@
+:imagesdir: images
+:meta-description: Ed Charbeneau is writing SPA with Blazor.
+:title: Podcast 099 - Ed Charbeneau on Blazor
+:slug: Podcast-099-Ed-Charbeneau-Blazor
+:tags: podcast, c#, webassembly, blazor
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/099EdCharbeneauBlazor.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/099EdCharbeneauBlazor.mp3
+:podcastsize: 26488246
+:podcastlength: 20:14
+
+Ed Charbeneau is writing SPA with Blazor. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Ed is the host of the link:https://soundcloud.com/esc-podcast[Eat Sleep Code] podcast, check it out! We even did a link:https://crosscuttingconcerns.com/Podcast-049-Eat-Sleep-Code-Stir-Trek[cross-over episode for the Stir Trek conference (episode 45)]
+* link:https://twitter.com/danroth27[Daniel Roth] is a Program Manager at Microsoft
+* link:https://webassembly.org/[WebAssembly] (aka Wasm) 1.0 has shipped to all the major browsers.
+* link:https://blazor.net/[Blazor]
+* link:https://github.com/aspnet/Blazor[Blazor on GitHub]
+* link:https://www.mono-project.com/[Mono] is an open-source implementation of .NET.
+* link:http://blog.stevensanderson.com/[Steve Sanderson] created the original pilot of Blazor (he also created Knockout.js)
+* The term "evergreen browsers" has been around for some time. It may have been popularized by link:https://www.paulirish.com/2011/browser-market-pollution-iex-is-the-new-ie6/[Paul Irish].
+* link:http://asmjs.org/[asm.js] is a WebAssembly link:https://remysharp.com/2010/10/08/what-is-a-polyfill[polyfill]
+* link:https://www.nuget.org/[NuGet] (where you can find link:https://www.nuget.org/packages/Markdig/[Markdig])
+* Ed Charbeneau on link:https://channel9.msdn.com/Niners/EdCharbeneau[Channel 9]
+
+link:https://twitter.com/EdCharbeneau[Ed Charbeneau is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
