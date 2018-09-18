@@ -1,0 +1,34 @@
+:imagesdir: images
+:meta-description: Joe Kelly has lots of COBOL experience.
+:title: Podcast 100 - Joe Kelly on COBOL
+:slug: Podcast-100-Joe-Kelly-COBOL
+:tags: podcast, COBOL
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/100JoeKellyCobol.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/100JoeKellyCobol.mp3
+:podcastsize: 21983302
+:podcastlength: 22:44
+
+Joe Kelly has lots of COBOL experience. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:https://www.alteryx.com/[Alteryx]
+* link:https://en.wikipedia.org/wiki/Extract,_transform,_load[ETL]: Extract, transform, load
+* link:https://www.indeed.com/[Indeed] is a site for finding jobs
+* link:http://www.cnn.com/TECH/computing/9806/30/y2k.idg/index.html[The "Y2K bug"]
+* Various COBOLs mentioned:
+** COBOL 1974, check out link:http://www.dtic.mil/dtic/tr/fulltext/u2/a039740.pdf[Programming Language Standards -- Who Needs Them? [PDF]]
+** COBOL 1985, check out link:https://books.google.com/books?id=N066w1XgJXcC&pg=PA438&lpg=PA438#v=onepage&q&f=false[COBOL Programming]
+** Object Oriented COBOL, check out link:http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1995/9510/9510e/9510e.htm[Cobol '97: A Status Report] and link:https://books.google.com/books?id=posN1cl6XFUC&pg=PA15#v=onepage&q&f=false[Object-Oriented COBOL]
+** link:http://opencobol.add1tocobol.com/[OpenCOBOL] which appears to have been replaced by link:http://opencobol.add1tocobol.com/gnucobol/[GnuCOBOL]
+* The link:https://commons.wikimedia.org/wiki/File:IBM-3279.jpg[IBM 3270 terminal] with 80 character-wide screen
+* link:https://www.ibm.com/it-infrastructure/z/zos[IBM z/OS]
+* Book: link:https://www.amazon.com/Sams-Teach-Yourself-COBOL-Hours/dp/0672314533[Sams Teach Yourself COBOL in 24 Hours] which has a Kindle edition.
+* The link:http://ibmmainframes.com/[IBM Mainframes] forum
+* Joe was kind enough to share his email address in the episode.
+
+link:https://twitter.com/joeytwoties[Joe Kelly is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
