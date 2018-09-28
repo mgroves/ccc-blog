@@ -1,0 +1,82 @@
+:imagesdir: images
+:meta-description: One hundred episodes.
+:title: One Hundred Episode Milestone
+:slug: One-Hundred-Episode-Milestone
+:tags: podcast, personal
+:heroimage: 
+:podcastpath: 
+:podcastsize: 
+:podcastlength:
+
+I just published the 100th episode of the Cross Cutting Concerns podcast. It's an arbitrary milestone, but it's as good as chance as any to reflect on my podcast and what I've learned.
+
+== Guests
+
+The whole reason I started this podcast was as an exercise in meeting people, having conversations, learning, networking, and making new friends. I work from home, and therefore I need to be more proactive in reaching out to the technical community.
+
+If you're a regular listener, then you know that I tend to draw from the Microsoft community pretty heavily: MVPs and other people that I've worked with. However, it's never been my intention to focus solely on Microsoft technologies. To that end, I've been able to reach out and record episodes with people who are way outside of my normal sphere. Some examples:
+
+* Sophie Wilson (link:https://crosscuttingconcerns.com/Podcast-012-Sophie-Wilson-on-Acorn-ARM-BASIC[Episode 12: Sophie Wilson on Acorn, ARM, BASIC]). Early on, I was "shooting for the moon", trying to contact as many legendary developers and technologists in the off chance that one of them would actually agree to talk to me. To my great surprise, one of my most influential technologists in history agreed to speak to me on the phone.
+* Kelsey Hightower (link:https://crosscuttingconcerns.com/Podcast-011-Kelsey-Hightower-on-Kubernetes-Bootstrapping[Episode 11: Kelsey Hightower on Kubernetes Bootstrapping]. Not quite the same level as Sophie Wilson, but another shoot-for-the-moon guest. One of the most influential people in technology today.
+* Matthew Revell (link:https://crosscuttingconcerns.com/Podcast-040---Matthew-Revell-on-Developer-Conferences[Episode 40: Matthew Revell on Developer Conferences]. Matthew is an expert in developer relations and I was very fortunate to have him on a show (and meet him later in person just this year).
+
+== Favorite Episodes
+
+(Almost) every episode that I've recorded has been a great experience for me, so it's hard to narrow down which ones I've enjoyed the most.
+
+* Retro gaming: I've done a "trilogy" of episodes with Matthew Bok about retro gaming: link:https://crosscuttingconcerns.com/Podcast-016-Matt-Bok-on-Retro-Gaming-Tech[Episode 16: Matt Bok on Retro Gaming Tech], link:https://crosscuttingconcerns.com/Podcast-026-Matt-Bok-on-Retro-Gaming-Tech-Again[Episode 26: Matt Bok on Retro Gaming Tech Again], and link:https://crosscuttingconcerns.com/Podcast-066-Matthew-Bok-on-Holiday-Shopping-for-Gamers[Matthew Bok on Holiday Shopping for Gamers]. Bok and I used to work together, we hang out sometimes, and we could just talk all day about retro gaming. So I enjoyed these episodes.
+* ForeverScape: TV shows often go through something called link:https://tvtropes.org/pmwiki/pmwiki.php/Main/EarlyInstallmentWeirdness[Early Installment Weirdness]. This episode with Vance Feldman (who I've never met) was about some delightfully weird art called ForeverScape and some of the technology challenges around it. link:https://crosscuttingconcerns.com/Podcast-005---Vance-Feldman-on-ForeverScape[Episode 5: Vance Feldman on ForeverScape]. I don't think I've done any other episode like it since.
+* Movies: I've done two "movie" episodes now. One was with my dad: link:https://crosscuttingconcerns.com/Podcast-036---Kevin-Groves-on-Pirates-of-Silicon-Valley[Episode 36: Kevin Groves on Pirates of Silicon Valley] and the other was with one of my earliest mentors: link:https://crosscuttingconcerns.com/Podcast-071-Bill-Sempf-on-Sneakers[Episode 71: Bill Sempf on Sneakers]. Both of these episodes are extra-long and format breaking. We discuss movies and the technology represented within. These were both super fun for me to record, edit, and produce.
+
+== Inspirational
+
+I owe a great deal to link:http://davidgiard.com/[David Giard] for this podcast. His show link:http://www.technologyandfriends.com/[Technology & Friends] is pretty much the template for Cross Cutting Concerns. He has been a guest on the show three times:
+
+* link:https://crosscuttingconcerns.com/Podcast-006---David-Giard-on-Cognitive-Services[Episode 6: David Giard on Cognitive Services]
+* link:https://crosscuttingconcerns.com/Podcast-015-David-Giard-on-Developer-Community[Episode 15: David Giard on Developer Community]
+* link:https://crosscuttingconcerns.com/Podcast-076-David-Giard-Vision-Cognitive-Services[Episode 76: David Giard on Vision Cognitive Services]
+
+David is up to 500+ episodes of his own show (at the time I'm publishing this), so I have a lot of catching up to do!
+
+Other inspirations include Pete Shearer (who has been a guest, and has his own show link:http://www.peteonsoftware.com/[Pete on Software]) and Russ Roberts (of the link:http://www.econtalk.org/[EconTalk] podcast).
+
+== Popular Episodes
+
+I started tracking my downloads (properly) only this year, so I don't have a complete picture of the most popular episodes. But here's a rough idea in no particular order:
+
+* link:https://crosscuttingconcerns.com/Podcast-061-Eric-Elliott-on-TDD[Episode 61: Eric Elliott on TDD]
+* link:https://crosscuttingconcerns.com/Podcast-060-Dean-Hume-on-Progressive-Web-Apps[Episode 60: Dean Hume on Progressive Web Apps]
+* link:https://crosscuttingconcerns.com/Podcast-070-Tim-Wingfield-on-API-Design[Episode 70: Time Wingfield on API Design]
+* link:https://crosscuttingconcerns.com/Podcast-098-Eric-Potter-Nintaco[Episode 98: Eric Potter on Nintaco]
+
+== Thank you
+
+Thank you, listener, for subscribing to the show and listening faithfully.
+
+Huge thanks to my very first sponsor: link:http://smartsheet.com/crosscuttingconcerns[Smartsheet]. They have a unique offering for project management that you should definitely check out. There's a free trial, even!
+
+Also thank you Microsoft, for the MVP Award. Thanks TechSmith for making the best video editing software, Camtasia.
+
+Extra thanks to Joe Ferg for the awesome music. Definitely check out his other stuff at link:http://joeferg.com[JoeFerg.com], and hire him for all your creative needs!
+
+== Retrospective
+
+Season 3 is coming to a close soon, so it's a good time to reflect on what I think has gone well, what hasn't gone as well as I'd like, and what I'm going to do next season.
+
+What I think has gone well:
+
+* Cadence: once a week episodes has been tough at times, but since my episodes are short, I'm able to keep up.
+* Guests: just about every guest has exceeded my expectations, and I learn something new at least once per episode.
+* Metrics: I've been using link:https://analytics.podtrac.com/[Podtrac] to track the number of downloads. It's a tool that could use some improvements, but it was so easy to get started, and has been very reliable for me.
+
+What hasn't gone as well as I'd like:
+
+* Audience engagement. I want to hear from you, the listener, more. I've tried to make the JavaScript game a quick and easy way for listeners to contribute to the show. I've also had some giveaways this season. But my inbox is not exactly bursting at the seams, and I haven't received any reviews on iTunes. This is all despite having upwards of 1200-1500 episode downloads per month. So I'm assuming that I'm doing something wrong.
+* Transcripts. I've tried a couple tools to automatically generate transcripts from the recordings. None of them seem accurate enough to be useful.
+
+What I'm going to do next season:
+
+* Try to find a sponsor. Smartsheet has been great, and hopefully they renew with me. If not, I'd like to find another sponsor. (Even if I don't, the show will go on).
+* Change up the JavaScript game. I may increase the prize amount, I may change the game so it's not just about JavaScript, I may remove the game entirely. I haven't decided yet.
+* Increase engagement with you, somehow. I'd ask you for suggestions, but... I ask for them every episode already. I should do something different.
+* Reach out to a wider diversity of topics. I did a little bit of that this year with link:https://crosscuttingconcerns.com/Podcast-085-ColdFusion-Panel-LIVE[ColdFusion], link:https://crosscuttingconcerns.com/Podcast-083-James-Munns-Embedded-Development[embedded development], and link:https://crosscuttingconcerns.com/Podcast-100-Joe-Kelly-COBOL[COBOL]. I learn the most from the episodes, so I want to do more.
