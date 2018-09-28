@@ -1,0 +1,29 @@
+:imagesdir: images
+:meta-description: Eric Potter appreciates the value of good legacy software.
+:title: Podcast 101 - Eric Potter on Legacy Software
+:slug: Podcast-101-Eric-Potter-Legacy-Software
+:tags: podcast, legacy, architecture
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/101EricPotterLegacySoftware.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/101EricPotterLegacySoftware.mp3
+:podcastsize: 22839296
+:podcastlength: 18:53
+
+Eric Potter appreciates the value of good legacy software. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Comic: link:http://bonkersworld.net/building-software[The Life of a Software Engineer] (Bonkers World)
+* Paper: link:http://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf[The Computer Scientist as a Toolsmith] by Fred Brooks
+* Errata: I said the phrase "part and partial" but I should have said or "part and parcel"?
+* Top Gear, the Hilux saga:
+** link:https://www.youtube.com/watch?v=xnWKz7Cthkk[Toyota Hilux Part 1]
+** link:https://www.youtube.com/watch?v=xTPnIpjodA8[Toyota Hilux Part 2]
+** link:https://www.youtube.com/watch?v=kFnVZXQD5_k[Toyota Hilux Part 3]
+* Book: link:https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959[The Mythical Man-Month] by Fred Brooks
+* link:https://www.vim.org/[Vim], originally created for the Amiga in 1988, which is itself based on link:https://en.wikipedia.org/wiki/Vi[vi], which was created in 1976.
+
+link:https://twitter.com/pottereric[Eric Potter is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
