@@ -1,0 +1,31 @@
+:imagesdir: images
+:meta-description: Ed Charbeneau is creating and using ASP.NET tag helpers.
+:title: Podcast 102 - Ed Charbeneau on ASP.NET Tag Helpers
+:slug: Podcast-102-Ed-Charbeneau-ASP-NET-Tag-Helpers
+:tags: podcast, asp.net, razor, asp.net core, .net, .net core
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/102EdCharbeneauAspNetTagHelpers.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/102EdCharbeneauAspNetTagHelpers.mp3
+:podcastsize: 26159177
+:podcastlength: 20:01
+
+Ed Charbeneau is creating and using ASP.NET tag helpers. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Doom and web page size: I think this was originally pointed out by link:https://twitter.com/xbs/status/626781529054834688[Ronan Cremin]
+** (Doom is a 1993 PC game, here's a link:https://www.youtube.com/watch?v=Xfjh9wWH5xw[video of Doom] in action)
+** I also link:https://twitter.com/mgroves/status/1046133327403659265[tweeted sarcastically about page footprint and client-side rendering] recently.
+* link:https://www.progress.com/telerik[Progress Telerik] tools
+* link:https://www.telerik.com/aspnet-core-ui[Telerik UI for ASP.NET Core]
+* link:https://demos.telerik.com/kendo-ui/responsive-panel/index[Kendo UI Responsive Panel]
+* link:https://vuevixens.org/[Vue Vixens] (I couldn't find their Rick & Morty example though)
+* Docs: link:https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-2.1[Tag Helpers]
+** link:https://twitter.com/scott_addie[Scott Addie] is on Twitter
+* Demos: link:https://demos.telerik.com/aspnet-core/[Telerik ASP.NET Core demos]
+* link:https://developer.telerik.com/community/eat-sleep-code/[Eat Sleep Code podcast] (also on link:https://soundcloud.com/esc-podcast[Soundcloud])
+
+link:https://twitter.com/EdCharbeneau[Ed Charbeneau is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
