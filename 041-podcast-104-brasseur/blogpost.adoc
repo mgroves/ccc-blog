@@ -1,0 +1,36 @@
+:imagesdir: images
+:meta-description: VM "Vicky" Brasseur talks open source and free software.
+:title: Podcast 104 - VM "Vicky" Brasseur on Open Source
+:slug: Podcast-104-VM-Vicky-Brasseur-Open-Source
+:tags: podcast, economics, business, open source
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/104VMBrasseurOpenSource.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/104VMBrasseurOpenSource.mp3
+:podcastsize: 22602818
+:podcastlength: 20:46
+
+VM "Vicky" Brasseur talks open source and free software. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Book: link:https://pragprog.com/book/vbopens/forge-your-future-with-open-source[Forge Your Future with Open Source]
+* Patreon: link:https://www.patreon.com/vmbrasseur[VM (Vicky) Brasseur is creating writings & talks, supporting free & open source software]
+* Some free and open source software mentioned in this episode:
+** Linux
+** link:https://www.mozilla.org/en-US/firefox/[Firefox]
+** link:https://www.blender.org/[Blender]
+** link:https://godotengine.org/[Godot]
+** link:https://www.debian.org/[Debian]
+* link:https://www.gnu.org/copyleft/[Copyleft] was mentioned at least once.
+* Paper: link:https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf[Open Source Archetypes (PDF)] by James Vasile and Karl Fogel
+* link:https://www.investopedia.com/ask/answers/032615/what-concept-utility-microeconomics.asp[Utility] is a concept brought from time to time in link:http://www.econtalk.org/[EconTalk], one of my favorite podcasts.
+* In this episode, VM discusses Microsoft's patents. **This episode was recorded BEFORE the announcement** from link:https://www.zdnet.com/article/microsoft-open-sources-its-entire-patent-portfolio/[Microsoft joining the Open Invention Network]. (This is one of the reasons I like to say the date of the recording at the top of every episode). I did *not* reach out to VM to get any further comment on this event.
+* link:https://www.theregister.co.uk/2018/08/23/redis_database_license_change/[Redis licensing changes]. We had an extended discussion about Redis licensing that I cut just due to time constraints, but definitely reach out to VM if you have questions!
+* Something else that happened since this podcast was recorded: link:https://www.zdnet.com/article/its-mongodbs-turn-to-change-its-open-source-license/[MongoDB made a license change]. I think it's similar to Redis's change, but I'm not entirely sure.
+* Book: link:https://producingoss.com/[Producing Open Source Software] by Karl Fogel
+* link:https://opensource.org/[OpenSource.ORG] and link:https://opensource.com/[OpenSource.COM]
+
+link:https://twitter.com/vmbrasseur[VM "Vicky" Brasseur is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
