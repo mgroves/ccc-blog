@@ -1,0 +1,28 @@
+:imagesdir: images
+:meta-description: Michael Eaton talks with me on a variety of topics.
+:title: Podcast 103 - Michael Eaton on a potpourri of topics
+:slug: Podcast-103-Michael-Eaton-potpourri-topics
+:tags: podcast, agile, language, cloud, writing
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/103MichaelEatonPotpourri.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/103MichaelEatonPotpourri.mp3
+:podcastsize: 21220843
+:podcastlength: 19:03
+
+Michael Eaton talks with me on a variety of topics. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* link:http://www.matchedpattern.com[Matched Pattern]
+* link:https://www.scaledagileframework.com/[SAFe]. Those diagrams absolutely scream "Individuals and interactions over processes and tools" and "Responding to change over following a plan" if you ask me.
+* link:https://www.perl.org/[Perl] is a language, most criticized for looking like unreadable "line noise". But that may be an unfair criticism. If you love Perl, contact me and let's get you on the show.
+* link:https://elixir-lang.org/[Elixir]
+* Blog: link:https://samestuffdifferentday.com/[Same Stuff Different Day]
+* Blog: link:https://thoughtsonwriting.com[Thoughts on Writing]
+* link:https://www.beedictionary.com/common-errors/premise_vs_premises[Premise vs premises], and if you can't remember, just say "on prem" like me :)
+* link:https://twitter.com/ThroatPunchList[ThroatPunchList]
+
+link:https://twitter.com/mjeaton[Michael Eaton is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
