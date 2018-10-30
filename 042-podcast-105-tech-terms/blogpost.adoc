@@ -1,0 +1,27 @@
+:imagesdir: images
+:meta-description: George Mauer is memorizing tech terms.
+:title: Podcast 105 - George Mauer on Tech Terms
+:slug: Podcast-105-George-Mauer-Tech-Terms
+:tags: podcast, learning, anki
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/105GeorgeMauerTechTerms.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/105GeorgeMauerTechTerms.mp3
+:podcastsize: 21198798
+:podcastlength: 18:47
+
+George Mauer is memorizing tech terms. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Blog: link:http://georgemauer.net/2018/09/23/announcing-tech-terms-for-memorization.html[Announcing Tech Terms for Memorization]
+* Repository: link:https://github.com/togakangaroo/tech-terms[Technical Terms Flashcard Deck on GitHub]
+* Check out link:https://crosscuttingconcerns.com/Podcast-020-George-Mauer-on-the-Future-of-the-Web[Episode 20 with George Mauer] from way back in 2016 where he makes some predictions about the future of the web
+* link:https://apps.ankiweb.net/[Anki] flash cards softward
+* We briefly discussed link:http://www.catb.org/~esr/jargon[/The Jargon File], but I cut it from the episode. Still worth checking out.
+* link:https://glossarytech.com/[glossarytech]
+* link:https://www.surgeforward.com/[Surge] / link:https://www.catalyte.io/[Catalyte]
+
+link:https://twitter.com/togakangaroo[George Mauer is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!
