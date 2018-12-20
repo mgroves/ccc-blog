@@ -1,8 +1,8 @@
 :imagesdir: images
-:meta-description: TBD
+:meta-description: Hangfire is a quick and easy way to start adding background jobs to your ASP.NET Core solution.
 :title: Background jobs in ASP.NET Core made easy with Hangfire
 :slug: Background-jobs-ASP-NET-Core-Hangfire
-:tags: asp.net core, csharp, hangfire
+:tags: asp.net core, csharp, hangfire, csharp advent
 :heroimage: 045-hero-background-workers.jpg (from  https://www.pexels.com/photo/selective-focus-photography-of-two-men-builder-figurines-1445324/)
 
 _Merry Christmas! This is the last day of the link:https://crosscuttingconcerns.com/The-Second-Annual-C-Advent[C# Advent]. Make sure to check out all of the other great posts from 2017 and 2018. If you want to be involved next year, look for C# Advent 2019 author sign ups at the end of October 2019, and look for blog posts to start showing up on December 1st, 2019._
