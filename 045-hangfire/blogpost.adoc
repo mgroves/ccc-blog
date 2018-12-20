@@ -1,0 +1,121 @@
+:imagesdir: images
+:meta-description: TBD
+:title: Background jobs in ASP.NET Core made easy with Hangfire
+:slug: Background-jobs-ASP-NET-Core-Hangfire
+:tags: asp.net core, csharp, hangfire
+:heroimage: 045-hero-background-workers.jpg (from  https://www.pexels.com/photo/selective-focus-photography-of-two-men-builder-figurines-1445324/)
+
+_Merry Christmas! This is the last day of the link:https://crosscuttingconcerns.com/The-Second-Annual-C-Advent[C# Advent]. Make sure to check out all of the other great posts from 2017 and 2018. If you want to be involved next year, look for C# Advent 2019 author sign ups at the end of October 2019, and look for blog posts to start showing up on December 1st, 2019._
+
+## What is a background job?
+
+A background job is some code that runs apart from the normal flow of your program. It could be run asynchronously and/or on another thread. As an ASP.NET MVC developer, I tend to think of it as any task that runs outside of an MVC action being invoked.
+
+There's two kinds of background jobs that I'm aware of:
+
+* Scheduled - a task that runs every N minutes, or every Y hours, etc. This is what I'm going to show in this post today. It's great for making periodic checks, ingesting data from some other source, etc.
+* Fire and forget - Some other piece of code kicks off a process to run in the background. It doesn't block the code (fire), and the code doesn't wait for a response (forget). This is great for potentially time consuming operations like checking inventory, sending emails, etc, that you don't need a user to wait for.
+
+## What you usually need to do to create background jobs
+
+In my experience, I've seen background jobs take a few different forms.
+
+1. Separate Windows service (or Linux daemon, whatever). A console/service program that's running _in addition to_ your ASP.NET program. This works fine for scheduled jobs.
+2. Queueing mechanisms like Kafka or Rabbit. The ASP.NET program will put messages into these queues, which will then be processed by some other program. This is fine for fire-and-forget.
+3. Background jobs running within the ASP.NET process itself. In my experience, I've used link:https://www.quartz-scheduler.net/[Quartz.NET], which can run within the ASP.NET process. There's also link:https://github.com/fluentscheduler/FluentScheduler[FluentScheduler] (which I've not used, and doesn't seem to come with database integration out of the box?)
+
+With all these options in the past, I've experienced deployment difficulties. The wrong version of the service gets deployed, or isn't running, or fails silently, or needs to be deployed on multiple servers in order to provide scalability/availability etc. It's totally possible to overcome these challenges, of course. (I should also note that in my experience with Quartz.NET, I never used it in embedded form, and the last time I used it was probably 6+ years ago).
+
+But if I just need a handful of background jobs, I'd much rather just make them part of the ASP.NET system. Yes, maybe this goes against the whole 'microservice' idea, but I don't think it would be too hard to refactor if you decided you need to go that route. I solve my deployment problems, and as you'll see with Hangfire (with Couchbase), it's very easy to scale.
+
+## How hangfire works
+
+You can find more details and documentation about Hangfire at link:https://www.hangfire.io/[Hangfire.io]. Really, there are only three steps to setting up Hangfire with ASP.NET Core:
+
+1. Tell ASP.NET Core about Hangfire
+2. Tell Hangfire which database to use
+3. Start firing off background jobs
+
+In Startup.cs, in the `ConfigureServices` method:
+
+[source,C#,indent=0]
+----
+services.AddHangfire(x => x.UseCouchbaseStorage(configuration, "familyPhotos_hangfire"));
+----
+
+Then, in Startup.cs, in the `Configure` method:
+
+[source,C#,indent=0]
+----
+app.UseHangfireServer();
+----
+
+I'm using Couchbase in this example, but there are options for SQL Server and other databases too. I happen to think Couchbase is a great fit, because it can easily horizontally scale to grow with your ASP.NET Core deployments. It also has a memory-first architecture for low latency storage/retrieval of job data. Generally speaking, even if you use SQL Server as your "main" database, link:http://couchbase.com/dotnet[Couchbase makes a great companion to ASP.NET or ASP.NET Core] as a cache, session store, or, in this case, backing for Hangfire.
+
+The `configuration` variable is to tell Hangfire where to find Couchbase:
+
+[source,C#,indent=0]
+----
+var configuration = new ClientConfiguration
+{
+    Servers = new List<Uri> { new Uri("http://localhost:8091") }
+};
+configuration.SetAuthenticator(new PasswordAuthenticator("hangfire", "password"));
+----
+
+(In my case, it's just running locally).
+
+Steps 1 and 2 are down. Next, step 3 is to create some background jobs for Hangfire to process. I've created an ASP.NET Core app to assist me in the cataloging of all my family photographs. I want my application to scan for new files every hour or so. Here's how I create that job in Hangfire:
+
+[source,C#,indent=0]
+----
+RecurringJob.AddOrUpdate("photoProcessor", () => processor.ProcessAll(), Cron.Hourly);
+----
+
+Note that I didn't have to implement an `IJob` interface or anything like that. Hangfire will take any expression that you give it (at least, every expression that I've thrown at it so far).
+
+Step 3 done.
+
+Hangfire is just a NuGet package and not a separate process. So no additional deployment is needed.
+
+## How do I know it's working?
+
+Another great thing about Hangfire is that is comes with a built-in dashboard for the web. Back in Startup.cs, in `Configure`, add this code:
+
+[source,C#,indent=0]
+----
+app.UseHangfireDashboard("/hangfire", new DashboardOptions
+{
+    Authorization = new[] {new HangfireAuthorization()}
+});
+----
+
+_I'm using my own `HangfireAuthorization` implementation because Hangfire only gives permission to local users by default._
+
+Then, you get a nice dashboard right out of the box, showing you a realtime and history graph.
+
+image:04501-hangfire-dashboard-graphs.png[Hangfire dashboard]
+
+From this dashboard, you can also look at a more detailed history of what's run and what's failed.
+
+image:04502-succeeded-jobs-hangfire.png[Succeeded jobs]
+
+You can even kick off recurring jobs manually.
+
+image:04503-recurring-jobs-hangfire.png[Recurring jobs]
+
+## This is only the start
+
+If you're thinking about adding background jobs to your ASP.NET Core solution, why not give Hangfire a try?
+
+Some more things for you to explore:
+
+* Scaling: every ASP.NET Core site that gets deployed with Hangfire that points to the same database will be able to process jobs too. As your ASP.NET Core site scales out, hangfire scales out with it. This is another reason that Couchbase is a good fit, because it's also easy to scale out as your site grows.
+
+* Cloud: If you are deploying your site as an app service, note that Azure will shut down ASP.NET processes if they haven't been used in a while. This means Hangfire will shut down with them. There are a couple of ways to deal with this. Check out the link:http://docs.hangfire.io/en/latest/deployment-to-production/making-aspnet-app-always-running.html[Hangfire documentation].
+
+* Retries: Hangfire will retry failed jobs. Design your background job code to expect this.
+
+* Hangfire Pro: The commercial version of Hangfire is called link:https://www.hangfire.io/pro/[Hangfire.Pro], and it comes with some interesting looking batch capabilities. I've not needed any of this functionality yet, but for more advanced cases you might need this.
+
+* Couchbase: a NoSQL data platform that has a built-in memory-first cache layer, SQL support, text search, analytics, and more. There are lots of options for working with link:http://couchbase.com/dotnet[Couchbase in .NET]. For this post, I used the link:https://github.com/imranmomin/Hangfire.Couchbase[Hangfire.Couchbase] library (available on NuGet).
