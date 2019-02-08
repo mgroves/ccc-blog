@@ -1,0 +1,42 @@
+:imagesdir: images
+:meta-description: Brant Burnett is continuously integrating and deploying microservices.
+:title: Podcast 106 - Brant Burnett on CI/CD for Microservices
+:slug: Podcast-106-Brant-Burnett-CI-CD-Microservices
+:tags: podcast, CI, CD, microservices, architecture
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/106BrantBurnettCiCdMicroservices.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/106BrantBurnettCiCdMicroservices.mp3
+:podcastsize: 20441580
+:podcastlength: 18:35
+
+Brant Burnett is continuously integrating and deploying microservices. This episode is sponsored by link:https://smartsheet.com/crosscuttingconcerns[Smartsheet].
+
+Show Notes:
+
+* Previous microservice episodes:
+** link:https://crosscuttingconcerns.com/Podcast-077-Chase-Aucoin-Microservices-Manifesto[Chase Aucoin on the Microservices Manifesto]
+** link:https://crosscuttingconcerns.com/Podcast-097-Richard-Rodger-Microservices[Richard Rodger on Microservices]
+* SOA (Service Oriented Architectures), first defined in a Gartner paper from 1996: link:https://www.gartner.com/doc/302868/service-oriented-architectures-["Service Oriented" Architectures, Part 1]
+* CI tools mentioned:
+** link:https://jenkins.io/[Jenkins]
+** link:https://www.jetbrains.com/teamcity/[TeamCity]
+** link:https://travis-ci.org/[Travis CI]
+** link:https://www.appveyor.com/[AppVeyor]
+* DEB and RPM files were mentioned.
+** DEB - Video: link:https://www.youtube.com/watch?v=lFzPrzY2KFM&v3=[Anatomy of a Debian Package]
+** RPM - link:http://rpm.org/[rpm.org]
+** link:https://chocolatey.org/[Chocolatey] is a similar offering for Windows
+* link:https://aws.amazon.com/s3/[s3] is a cloud storage service from AWS (Amazon)
+* link:https://www.spinnaker.io/[Spinnaker]
+* link:https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html[Blue/Green Deployment] and link:https://rhelblog.redhat.com/2015/05/07/stop-gambling-with-upgrades-murphys-law-always-wins/#more-908[Red/Black Deployment]
+* link:https://martinfowler.com/bliki/CanaryRelease.html[Canary Release]
+* Monitoring tools mentioned: link:https://prometheus.io[Prometheus] and link:https://www.datadoghq.com/[Data Dog]
+* link:https://github.com/couchbaselabs/Linq2Couchbase[Linq2Couchbase] is a Linq provider for Couchbase (NoSQL database). For more about Linq, check out this link:https://channel9.msdn.com/Blogs/scobleizer/Anders-Hejlsberg-LINQ[video featuring Ander Hejlsberg]
+* link:https://puppet.com/resources/whitepaper/state-of-devops-report[State of DevOps Report 2018] by Puppet (and Splunk)
+* Book: link:https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339[Accelerate] : The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, Gene Kim
+* link:https://launchdarkly.com/[LaunchDarkly]
+
+link:https://twitter.com/btburnett3[Brant Burnett is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Music is by Joe Ferg, check out more music on link:http://joeferg.com[JoeFerg.com]!

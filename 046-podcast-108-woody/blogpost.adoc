@@ -1,0 +1,36 @@
+:imagesdir: images
+:meta-description: Chris Woodruff is building web APIs with ASP.NET Core.
+:title: Podcast 108 - Chris Woodruff on ASP.NET Core WebAPI
+:slug: Podcast-108-Chris-Woodruff-ASPNET-Core-WebAPI
+:tags: podcast, asp.net, asp.net core, webapi, web api
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/108ChrisWoodruffAspNetCoreWebApi.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/108ChrisWoodruffAspNetCoreWebApi.mp3
+:podcastsize: 15356028
+:podcastlength: 17:13
+
+Chris Woodruff is building web APIs with ASP.NET Core. This episode is sponsored by link:https://www.ivacy.com/[Ivacy].
+
+Show Notes:
+
+* link:http://www.chriswoodruff.com[Chris Woodruff.com]
+* link:https://www.jetbrains.com/[JetBrains]
+* link:http://wiki.c2.com/?ModelViewController[Model View Controller]
+* link:https://www.iis.net/[IIS] web server
+* link:https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2[Dependency injection in ASP.NET Core]
+* Check out link:https://crosscuttingconcerns.com/Podcast-094-Jeremy-Miller-Lamar[episode 94 with Jeremy Miller on Lamar] for more discussion about dependency injection
+* Check out link:https://crosscuttingconcerns.com/Podcast-022-J-Tower-on-NET-Core[episode 22 with J. Tower on .NET Core] for more about .NET Standard.
+* link:https://identityserver.io/[Identity Server]
+* link:https://auth0.com/[Auth0] / link:https://www.okta.com/[Okta]
+* Chris's link:http://baseballhistoryapi.azurewebsites.net/swagger[baseball API]
+* InfoQ stuff:
+** link:https://www.infoq.com/minibooks/emag-net-core[The InfoQ eMag: .NET Core]
+** link:https://www.infoq.com/articles/advanced-architecture-aspnet-core[Advanced Architecture for ASP.NET Core Web API]
+** https://www.infoq.com/articles/testing-aspnet-core-web-api[How to Test ASP.NET Core Web API]
+** link:https://www.infoq.com/profile/Chris-Woodruff[Chris Woodruff on InfoQ]
+* link:https://www.jetbrains.com/rider/[Project Rider] from JetBrains
+
+link:https://twitter.com/cwoodruff[Chris Woodruff is on Twitter].
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Want to be a sponsor? link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[Check out my sponsorship gig on Fiverr]
