@@ -1,0 +1,27 @@
+:imagesdir: images
+:meta-description: Peter Lorimer has built the ASPeKT AOP framework.
+:title: Podcast 109 - Peter Lorimer on ASPeKT
+:slug: Podcast-109-Peter-Lorimer-ASPeKT
+:tags: podcast, aop, aspekt, postsharp, .net
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/109PeterLorimerAop.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/109PeterLorimerAop.mp3
+:podcastsize: 18703966
+:podcastlength: 16:08
+
+Peter Lorimer has built the ASPeKT AOP framework. This episode is sponsored by link:https://http://uncall.me/crosscut/[Uncall].
+
+Show Notes:
+
+* link:https://www.manning.com/books/aop-in-net[AOP in .NET]
+* link:https://github.com/mvpete/aspekt[ASPeKT]
+* Other AOP frameworks discussed:
+** link:https://www.postsharp.net/[PostSharp]
+** link:http://www.castleproject.org/projects/dynamicproxy/[Castle DynamicProxy]
+* We use a bit of AOP terminology. If you need a refresher, check out the link:https://crosscuttingconcerns.com/tag/terminology[terminology posts] that cover weaving, cross cutting concern, aspect, advice, pointcut, and join point
+* Book: link:https://www.amazon.com/Adaptive-Code-via-principles-Developer/dp/0735683204/[Adaptive Code via C#] by Gary McLean Hall
+* link:https://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/[Mono.Cecil] is not an AOP framework, but it is a tool to manipulate IL (aka MSIL aka CIL)
+* link:https://unparalleledadventure.com/[Unparalleled Adventure] blog by Peter Lorimer
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
+Want to be a sponsor? link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[Check out my sponsorship gig on Fiverr]
