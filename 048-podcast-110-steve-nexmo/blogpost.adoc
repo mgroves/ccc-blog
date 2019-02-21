@@ -1,0 +1,29 @@
+:imagesdir: images
+:meta-description: Steve Crow is using Nexmo to communicate.
+:title: Podcast 110 - Steve Crow on Nexmo
+:slug: Podcast-110-Steve-Crow-Nexmo
+:tags: podcast, nexmo, messaging, API, REST
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/110SteveCrowNexmo.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/110SteveCrowNexmo.mp3
+:podcastsize: 20477980
+:podcastlength: 16:16
+
+Steve Crow is using Nexmo to communicate. This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://www.nexmo.com[Nexmo]
+* link:https://developer.nexmo.com/[Nexmo developer portal]
+* link:https://www.viber.com/[Viber]
+* link:https://curl.haxx.se/[curl] is a command line tool to make HTTP requests
+* link:https://www.openapis.org/[OpenAPI] initiative
+* link:https://www.youtube.com/watch?v=CMZU5NdSeIg[Fun video on DTMF tones]
+* A highlight video of link:https://www.youtube.com/watch?v=WziMRN9WoVk[Twitch Plays Pokémon] (you might want to jump to about 2:30 to get to the good stuff)
+* A video on the link:https://www.youtube.com/watch?v=o_djTy3G0pg[Monty Hall Paradox] featuring Alan Davies!
+* link:https://cr0w.st/[cr0w.st]
+* link:https://springonetour.io/2019/columbus[SpringOne Tour in Columbus]
+* link:https://devnexus.com/[DevNexus]
+* link:https://www.nexmo.com/blog/author/cr0wst/[Nexmo blog posts from Steve Crow]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
