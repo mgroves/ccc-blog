@@ -1,0 +1,36 @@
+:imagesdir: images
+:meta-description: Andy Beeker is watching Office Space.
+:title: Podcast 111 - Andy Beeker on Office Space
+:slug: Podcast-111-Andy-Beeker-Office-Space
+:tags: podcast, office space, movies 
+:heroimage: 
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/111AndyBeekerOfficeSpace.mp3
+:podcastsize: 57577189
+:podcastlength: 56:00
+
+Andy Beeker is watching Office Space. This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+This episode is **different** than a normal episode of Cross Cutting Concerns!
+
+1. This episode is about an R-Rated movie! Normally my podcast is G-rated, but that is not the case for this episode. If you normally listen with children, I recommend you listen to link:http://podcast.storypirates.com/[Story Pirates] with them instead!
+2. This is a **long** episode: almost an hour. Normally my episodes are around 15 minutes.
+3. This is an episode about a (vaguely) technical/computer related movie. I've done a couple of episodes like this in the past: link:https://crosscuttingconcerns.com/Podcast-071-Bill-Sempf-on-Sneakers[071 - Bill Sempf on Sneakers] and link:https://crosscuttingconcerns.com/Podcast-036---Kevin-Groves-on-Pirates-of-Silicon-Valley[036 - Kevin Groves on Pirates of Silicon Valley].
+
+Show Notes:
+
+* We watched link:https://www.amazon.com/Office-Space-Jennifer-Aniston/dp/B0093CNAJY[Office Space], a 1999 film by Mike Judge. If you haven't watched it, you should!
+* Inside joke alert: the mention of a "white jimmy". This is a reference to a link:https://en.wikipedia.org/wiki/Chevrolet_S-10_Blazer[GMC Jimmy SUV] that's painted white. But suppose someone came up to you and said "I have a white Jimmy" and then paused for 15 seconds...
+* There are many tangents we go on in this episode. Confused? link:https://crosscuttingconcerns.com/podcast[Send me a question], and I will try to clarify.
+* link:https://www.youtube.com/watch?v=ryBxYXeu55k[K*Pax] - a film you've probably never heard of starring Kevin Spacey, Jeff Bridges, and (notable for this podcast) Ajay Naidu.
+* Speaking of Kevin Spacey, if you're out of the loop, you might want to read up on link:https://en.wikipedia.org/wiki/Anthony_Rapp[Anthony Rapp].
+* The video discussed briefly in the episode is link:https://www.youtube.com/watch?v=rwy2zRilRl0[7 Things You (Probably) Didn't Know About Office Space]
+* link:https://www.adultswim.com/[Adult Swim] is the late night block of Cartoon Network that showed link:https://www.youtube.com/watch?v=qqrv6A3aPAQ[King of the Hill] in syndication.
+* Be sure to check out the link:https://www.amazon.com/Office-Space-Motion-Picture-Soundtrack/dp/B00000I5M4/[Office Space soundtrack].
+* Speaking of the "year 2000 switch", check out episode link:https://crosscuttingconcerns.com/Podcast-100-Joe-Kelly-COBOL[100 - with Joe Kelly on COBOL].
+* We mentioned Tiger LCD games. Here's link:https://www.youtube.com/watch?v=NH7zNg7mzaE[a refresher] if you don't quite remember them.
+* link:http://www.wvxu.org/post/two-days-october-1996-when-bob-dole-had-about-all-ohio-he-could-take#stream/0[Bob Dole: The Bus Tour]
+
+What movie should I tackle next time? link:https://crosscuttingconcerns.com/podcast[Leave some feedback and let me know!]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
+
