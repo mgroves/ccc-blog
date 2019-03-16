@@ -1,0 +1,34 @@
+:imagesdir: images
+:meta-description: Michelle Schulp is using atomic design and WordPress.
+:title: Podcast 111 - Michelle Schulp on WordPress and Atomic Design
+:slug: Podcast-111-Michelle-Schulp-WordPress-Atomic-Design
+:tags: podcast, wordpress, php, design, CMS
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/113MichelleSchulpWordpressAtomicDesign.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/113MichelleSchulpWordpressAtomicDesign.mp3
+:podcastsize: 19661442
+:podcastlength: 17:48
+
+Michelle Schulp is using atomic design and WordPress. This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://marktimemedia.com/[Marktime Media]
+* link:https://mynameismichelle.com/[My Name is Michelle]
+* link:https://fitnessandfreelance.com/[Fitness and Freelance]
+* link:https://wordpress.org/[WordPress]
+* Find a link:https://central.wordcamp.org/[WordCamp] near you.
+* link:https://patternlab.io/[Pattern Lab]
+* Book: link:https://shop.bradfrost.com/[Atomic Design] by Brad Frost
+* Check out the link:https://www.youtube.com/watch?v=awY_ORFXIyo[new Gutenberg editing experience] on WordPress (and compare it to the former editor, link:https://www.tiny.cloud/features/[TinyMCE])
+* Other CMSs of note: link:https://www.joomla.org/[Joomla] and link:https://www.drupal.org/[Drupal]
+* link:https://developer.wordpress.org/[Developer Resources for WordPress]
+* link:https://wordpress.tv/[WordPress TV]
+* link:https://casabona.org/[Joe Casabona]
+* link:https://zacgordon.com/[Zac Gordon]
+* link:https://tommcfarlin.com/[Tom McFarlin's blog on Practical WordPress Development]
+* link:https://pippinsplugins.com/[Pippin's Plugins]
+* Book: link:https://carlalexander.ca/object-oriented-programming-wordpress/[Discover Object-oriented Programming using Wordpress] by Carl Alexander
+
+link:https://twitter.com/marktimemedia[Michelle Schulp is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
