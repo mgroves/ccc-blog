@@ -1,0 +1,22 @@
+:imagesdir: images
+:meta-description: Jamie Phillips is creating machine images with Packer.
+:title: Podcast 114 - Jamie Phillips on Packer 
+:slug: Podcast-114-Jamie-Phillips-Packer
+:tags: podcast, packer, azure, aws
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/114JamiePhillipsPacker.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/114JamiePhillipsPacker.mp3
+:podcastsize: 16384165
+:podcastlength: 15:27
+
+Jamie Phillips is creating machine images with Packer. This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://www.phillipsj.net/[Jamie Phillips's blog]
+* link:https://www.packer.io/[Packer]
+* link:https://www.vagrantup.com/[Vagrant]
+* link:https://github.com/hashicorp/packer[Packer on GitHub]
+
+link:https://twitter.com/phillipsj73[Jamie Phillips is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
