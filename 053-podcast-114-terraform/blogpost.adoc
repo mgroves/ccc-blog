@@ -1,0 +1,26 @@
+:imagesdir: images
+:meta-description: Jamie Phillips is writing infrastructure as code.
+:title: Podcast 115 - Jamie Phillips on Terraform
+:slug: Podcast-115-Jamie-Phillips-Terraform
+:tags: podcast, terraform, azure, aws
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/115JamiePhillipsTerraform.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/115JamiePhillipsTerraform.mp3
+:podcastsize: 20277329
+:podcastlength: 18:59
+
+Jamie Phillips is writing infrastructure as code. This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://www.phillipsj.net/[PhillipsJ.net]
+* link:https://www.terraform.io/[Terraform]
+* link:https://www.terraform.io/docs/configuration/syntax.html[HCL], and yes it does kinda look like CSS
+* link:https://dnsimple.com/[DNSimple]
+* link:https://www.terraform.io/guides/index.html[Terraform Guides]
+* link:https://docs.microsoft.com/en-us/azure/terraform/[Terraform on Azure]
+* Book: Infrastructure as Code (still waiting for Jamie to send the link :)
+* It was just last week, but make sure you don't miss link:https://crosscuttingconcerns.com/Podcast-114-Jamie-Phillips-Packer[Jamie's episode on Packer]!
+
+link:https://twitter.com/phillipsj73[Jamie Phillips is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
