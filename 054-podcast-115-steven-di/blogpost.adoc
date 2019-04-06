@@ -1,0 +1,29 @@
+:imagesdir: images
+:meta-description: Steven van Deursen is building maintainable software with dependency injection.
+:title: Podcast 116 - Steven van Deursen on Dependency Injection
+:slug: Podcast-116-Steven-van-Deursen-Dependency-Injection
+:tags: podcast, dependency injection, ioc, simple injector
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/116StevenVanDeursenDependencyInjection.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/116StevenVanDeursenDependencyInjection.mp3
+:podcastsize: 19698399
+:podcastlength: 18:18
+
+Steven van Deursen is building maintainable software with dependency injection. This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://blogs.cuttingedge.it/steven/[.NET Junkie] - Steven's blog
+* Book: link:https://www.manning.com/books/dependency-injection-principles-practices-patterns[Dependency Injection Principles, Practices, and Patterns]
+* Check out link:https://crosscuttingconcerns.com/Podcast-094-Jeremy-Miller-Lamar[episode 94 with Jeremy Miller on Lamar]
+* Book: link:https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215[Domain Driven Design]
+* link:https://simpleinjector.org/index.html[Simple Injector]
+* link:https://autofac.org/[Autofac]
+* Some free excerpts from the book:
+** link:https://freecontent.manning.com/dependency-injection-writing-maintainable-loosely-coupled-code/[Writing Maintainable, Loosely-Coupled Code]
+** link:https://freecontent.manning.com/dependency-injection-in-net-2nd-edition-understanding-the-composition-root/[Understanding the Composition Root]
+** link:https://freecontent.manning.com/dependency-injection-in-net-2nd-edition-abuse-of-abstract-factories/[Abuse of Abstract Factories]
+* link:https://simpleinjector.org/blog/2016/06/whats-wrong-with-the-asp-net-core-di-abstraction/[What's wrong with the ASP.NET Core DI abstraction?]
+
+link:https://twitter.com/dot_NET_Junkie[Steven van Deursen is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
