@@ -1,0 +1,22 @@
+:imagesdir: images
+:meta-description: Gino Ferrand is building a company for distributed teams.
+:title: Podcast 117 - Gino Ferrand on Remote and Distributed Work
+:slug: Podcast-117-Gino-Ferrand-Remote-Distributed-Work
+:tags: podcast, remote, distributed, business
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/117GinoFerrandRemote.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/117GinoFerrandRemote.mp3
+:podcastsize: 19691046
+:podcastlength: 17:36
+
+Gino Ferrand is building a company for distributed teams. This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://www.tecla.io[Tecla]
+* link:https://agilemanifesto.org/[The Agile Manifesto]
+* link:https://www.tecla.io/blog/[Tecla blog]
+* Book: link:https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501[Remote] by DHH and Jason Fried
+
+link:https://twitter.com/[Gino Ferrand is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
