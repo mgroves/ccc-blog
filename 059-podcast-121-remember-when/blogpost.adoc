@@ -1,0 +1,21 @@
+:imagesdir: images
+:meta-description: This is a special crossover episode with Remember When, hosted by Steve Fischer and Scott Wood.
+:title: Podcast 121 - Remember When crossover special
+:slug: Podcast-121-Remember-When-crossover-special
+:tags: podcast, BASIC, retro gaming
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/121RememberWhenCrossover.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/121RememberWhenCrossover.mp3
+:podcastsize: 94672102
+:podcastlength: 01:27:18
+
+This is a special crossover episode with Remember When, hosted by Steve Fischer and Scott Wood.
+
+Show Notes:
+
+* link:https://podcasts.apple.com/us/podcast/remember-when/id1446342498?mt=2[Remember When] podcast (iTunes link)
+* link:https://www.facebook.com/PodcastWhen[Remember When Podcast on Facebook]
+* Podcast: link:https://retronauts.com[Retronauts] Podcast
+* link:https://www.youtube.com/channel/UCo_f7y6sBDmFnGbZoq1Ce_w/videos[Atari Archive] on YouTube
+* Book: link:https://www.amazon.com/Racing-Beam-Computer-Platform-Studies/dp/026201257X[Racing the Beam]
+
+link:https://twitter.com/podcastwhen[Remember When is on Twitter]

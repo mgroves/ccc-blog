@@ -1,0 +1,25 @@
+:imagesdir: images
+:meta-description: Jonathan Danylko talks to Matt about the results of the 2019 Stack Overflow developer survey.
+:title: Podcast 118 - Jonathan Danylko on the Stack Overflow Survey
+:slug: Podcast-118-Jonathan-Danylko-Stack-Overflow-Survey
+:tags: podcast, business, stack overflow
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/118JonathanDanylkoStackOverflowSurvey.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/118JonathanDanylkoStackOverflowSurvey.mp3
+:podcastsize: 23546071
+:podcastlength: 21:06
+
+Jonathan Danylko talks to Matt about the results of the 2019 Stack Overflow developer survey. We kinda go all over the place for this episode!
+
+This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* This episode is a bit different than normal episodes. It's an informal discussion of the Stack Overflow survey results by two people who are not and have never been Stack Overflow employees. We discuss a few things that stood out to us, but we barely scratch the surface of all the data that you can dig through. Make sure to check out the survey results yourself for the entire picture!
+* link:https://insights.stackoverflow.com/survey/2019[Stack Overflow survey results]
+* We talk a bit about remote work. If you're interested in that, I recorded a whole link:https://crosscuttingconcerns.com/Podcast-117-Gino-Ferrand-Remote-Distributed-Work[episode with Gino Ferrand] and published it last week last week.
+* link:https://www.danylkoweb.com/[DanylkoWeb]
+* link:https://www.linkedin.com/in/jonathandanylko/[Jonathan Danylko is on LinkedIn]
+
+link:https://twitter.com/jdanylko[Jonathan Danylko is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.

@@ -1,0 +1,30 @@
+:imagesdir: images
+:meta-description: Dennis Stepp is prioritizing tests based on risk. 
+:title: Podcast 120 - Dennis Stepp on Risk Based Analysis
+:slug: Podcast-120-Dennis-Stepp-Risk-Based-Analysis
+:tags: podcast, testing, qa, quality
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/120DennisSteppRiskBasedAnalysis.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/120DennisSteppRiskBasedAnalysis.mp3
+:podcastsize: 19505956
+:podcastlength: 17:10
+
+Dennis Stepp is prioritizing tests based on risk.
+
+This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://en.wikipedia.org/wiki/Mind_map[Mind Mapping]
+* The four factors of risk based analytis: Domain, risks, impact, likelihood
+* I threw out the term link:https://macroblog.typepad.com/macroblog/2009/11/what-is-systemic-risk-anyway.html[systemic risk]
+* Books:
+** link:https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882[Clean Code] by Robert C. Martin
+** link:https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592[The Phoenix Project] by Jean Kim
+** link:https://www.amazon.com/Seat-Table-Leadership-Age-Agility/dp/1942788118[A Seat at the Table] by Mark Schwartz
+** link:https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150[Making Work Visible] by Dominica Degrandis
+** link:https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052[Working Effectively with Legacy Code] by Michael Feathers
+* link:https://www.dennis-stepp.com/[Dennis-Stepp.com]
+
+link:https://twitter.com/destepp[Dennis is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.

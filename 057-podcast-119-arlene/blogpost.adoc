@@ -1,0 +1,36 @@
+:imagesdir: images
+:meta-description: Arlene Andrews talks about good online learning resources.
+:title: Podcast 119 - Arlene Andrews on Online Learning
+:slug: Podcast-119-Arlene-Andrews-Online-Learning
+:tags: podcast, education, learning
+:heroimage: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/119ArleneAndrewsOnlineResources.jpg
+:podcastpath: https://crosscuttingconcerns.blob.core.windows.net:443/podcasts/119ArleneAndrewsOnlineResources.mp3
+:podcastsize: 16293994
+:podcastlength: 14:21
+
+Arlene Andrews talks about good online learning resources.
+
+This episode is not sponsored! Want to be a sponsor? You can link:https://crosscuttingconcerns.com/Contact[contact me] or link:https://www.fiverr.com/mgroves/promote-your-product-or-service-in-my-technology-podcast[check out my sponsorship gig on Fiverr]
+
+Show Notes:
+
+* link:https://arleneandrews.github.io/[Arlene Andrews]
+* link:https://www.ourlearningmap.com/[Our Learning Map]
+* link:https://www.freecodecamp.org/[Free Code Camps]
+* link:https://www.codingblocks.net/[Coding Blocks]
+** link:https://www.codingblocks.net/tag/clean-code/["Clean Code" episodes]
+** link:https://www.codingblocks.net/slack/[CodingBlocks Slack]
+* link:https://www.ministryoftesting.com/[The Ministry of Testing]
+* link:https://qit.cloud/[QIT] is a search engine for podcasts.
+** link:https://github.com/codingblocks/qit-podcast-feed-loader/issues/8[As of April 21st], this very podcast will now start showing up in QIT searches!
+** link:https://github.com/codingblocks/qit.cloud[QIT source code]
+** link:https://github.com/codingblocks/qit-podcast-feed-loader[QIT feed loader source code]
+* link:https://testautomationu.applitools.com/[Test Automation University
+** link:https://testautomationu.applitools.com/instructors/angie_jones.html[Angie Jones]
+** link:https://testautomationu.applitools.com/instructors/amber_race.html[Amber Race]
+* link:https://www.edx.org/course/cs50s-introduction-to-computer-science[CS 50 via EdX]
+* link:https://twitter.com/swyx/status/1009174159690264579[@SWYX: Learn in Public]
+
+link:https://twitter.com/ArleneAndrews_1[Arlene is on Twitter]
+
+link:http://crosscuttingconcerns.com/Want-to-be-on-a-podcast[Want to be on the next episode?] You can! All you need is the willingness to talk about something technical.
