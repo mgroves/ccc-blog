@@ -1,0 +1,184 @@
+:imagesdir: images
+:meta-description: This is a special crossover episode with Remember When, hosted by Steve Fischer and Scott Wood.
+:title: Podcast 121 - Remember When crossover special
+:slug: Podcast-121-Remember-When-crossover-special
+:tags: podcast, BASIC, retro gaming
+:heroimage: three-kings.jpg
+
+Welcome to link:https://csadvent.christmas/[day 16 of the 2021 C# Advent]! Make sure to check out all the other great Advent items that have been opened so far!
+
+I have been working on an experimental tool called link:https://github.com/mgroves/SqlServerToCouchbase[SqlServerToCouchbase]. The goal is to help people automate their relational data moving and refactoring into a Couchbase JSON database as much as possible.
+
+It is a .NET library that you can use (in, for example, a console project). It maps a relational concept like "table" to a NoSQL concept of "collection" (among other things). Couchbase is particularly suited to this, because Couchbase also supports SQL as a querying language (with JOINs / ACID / INSERT / UPDATE / etc), and has supported SQL for many years. If that sounds interesting to you, I'd love for you to link:https://github.com/mgroves/SqlServerToCouchbase[leave your feedback, criticisms, suggestions, and even pull requests on GitHub].
+
+What I want to focus on today, however, are three great .NET libraries that I used to help build SqlServerToCouchbase. Three wise gifts: SqlServer.Types (gold), Dynamitey (frankincense), and Humanizer (myrrh).
+
+== dotMorten.Microsoft.SqlServer.Types (Gold)
+
+The gift of gold signified that the receiver was as important as a king.
+
+image:06003-melchior-gold.jpg[Gold]
+
+SQL Server has many data types. Mapping these data types into C# types (and ultimately to JSON) is usually straightfoward. `varchar, nvarchar, text`? string. `int, float, decimal, money`? number. `bit`? boolean. Even XML can become a string.
+
+But what about the other types? Spatial types, mainly: Geography and geometry? That's what Microsoft.SqlServer.Types is for: to provide C# types that can store propietary SQL Server data type values.
+
+However, notice the "dotMorten" part of the library name? Unfortunately, the official Microsoft.SqlServer.Types library is not a .NET Standard library. So, Morten Nielsen created the link:https://github.com/dotMorten/Microsoft.SqlServer.Types[dotMorten.Microsoft.SqlServer.Types] library.
+
+There's a code example below, but you won't see the library in action explicitly.
+
+[source,C#,indent=0]
+----
+// SqlServerFrom.cs
+public IEnumerable<dynamic> QueryBulk(IDbConnection conn, SqlPipelineBase pipeline)
+{
+    return conn.Query(pipeline.Query, buffered: false);
+}
+
+// SqlToCb.cs
+foreach(var row in rows)
+{
+    // ... snip ...
+    await collection.UpsertAsync(documentKey, row);
+    // ... snip ...
+}
+----
+
+I use Dapper to query SQL Server data, store those results in C# dynamic objects, and then give those objects to the Couchbase .NET SDK (which ultimately serialized it to JSON).
+
+That means that a row of SQL Server data, like this:
+
+[source,SQL,indent=0]
+----
+SELECT a.AddressID, a.SpatialLocation
+FROM AdventureWorks2016.Person.Address a
+WHERE a.AddressID = 1
+----
+
+image:06001-sql-server-row.png[Row of SQL Server data]
+
+Gets transformed into a Couchbase JSON document like this:
+
+[source,SQL,indent=0]
+----
+SELECT a.AddressID, a.SpatialLocation
+FROM AdventureWorks2016.Person.Address a
+WHERE a.AddressID = 1;
+----
+[source,JavaScript,indent=0]
+----
+[ {
+    "AddressID": 1,
+    "SpatialLocation": {
+      "HasM": false,
+      "HasZ": false,
+      "IsNull": false,
+      "Lat": 47.7869921906598,
+      "Long": -122.164644615406,
+      "M": null,
+      "STSrid": 4326,
+      "Z": null
+    }
+} ]
+----
+
+So, even if a SQL Server database is using one of these less common data types, SqlServerToCouchbase can still move it.
+
+== Dynamitey
+
+The second gift is frankincense. This is an expensive incense fit for a _holy_ king.
+
+image:06004-frankincense.jpg[Frankincense]
+
+Another challenge of SqlServerToCouchbase is getting the value of the primary key. In Couchbase, a document key exists as a piece of "metadata" about the document. However, in SQL Server, a primary key consists of one (usually) or more (uncommon) fields in a table. These fields can have ANY name. Usually it's something like "ID", "AddressID", "ADDRESS_ID", etc. But it can vary from table to table.
+
+Once I know the *names* of the fields, I need to examine the dynamic object to get the *values* of those fields. This is where I use link:https://github.com/ekonbenefits/dynamitey[Dynamitey].
+
+Dynamitey is a utility library that provides extensions to the link:https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/dynamic-language-runtime-overview[DLR], including:
+
+* Easy Fast DLR based Reflection (what I'm using it for)
+* Clean syntax for using types from late bound libraries
+* Dynamic Currying
+* Manipulation of Tuples
+
+And more.
+
+Key names can be retrieved from SQL Server by querying `INFORMATION_SCHEMA.KEY_COLUMN_USAGE`. I can use those names to get the *values* like so:
+
+[source,C#,indent=0]
+----
+// append key values together with :: delimeter
+// for compound keys
+var keys = await _config.GetPrimaryKeyNames(tableSchema, tableName, _dbFrom);
+var newKey = string.Join("::", keys.Select(k => Dynamic.InvokeGet(row, k)));
+----
+
+If a primary key is made up of one column and the row has a value of "1", then that becomes the document key in Couchbase. If a primary key is made up of multiple columns, with values of "123" and "456", that becomes a document key in Couchbase of "123::456".
+
+If it weren't for Dynamitey, I'd have to create C# classes for every table. And that greatly reduced the amount of automation.
+
+== Humanizer
+
+The third gift is myrrh. Another expensive gift. This one is fit for a holy, but also _human_ king.
+
+image:06005-myrrh.jpg[Myrrh]
+
+link:https://github.com/Humanizr/Humanizer[Humanizer] is a .NET library that manipulates string, dates, numbers, etc, for display to a human. There are many things it can do, but I use it for pluralization.
+
+When making the transition from relational to Couchbase, one of the things you must consider is when to embed data into documents. For instance, in relational, you may have two tables (Person and EmailAddress) in order to support a situation where a person has more than 1 email addresses.
+
+[source,SQL,indent=0]
+----
+SELECT p.BusinessEntityID, p.FirstName, P.LastName
+FROM AdventureWorks2016.Person.Person p
+WHERE p.BusinessEntityID = 1
+
+SELECT e.EmailAddress
+FROM AdventureWorks2016.Person.EmailAddress e
+WHERE e.BusinessEntityID = 1
+----
+
+image:06002-sql-server-email.png[Relational modeling]
+
+(In this example, there's only 1 email address, but the model supports more).
+
+In a document database like Couchbase, it's often preferable (though not required) to *embed* those email addresses into an array in the person document. Something like:
+
+[source,JavaScript,indent=0]
+----
+{
+  "BusinessEntityID" : 1,
+  "FirstName" : "Ken",
+  "LastName" : "Sánchez",
+  "????" : [
+    { "EmailAddress" : "ken0@adventure-works.com"}
+  ]
+}
+----
+
+But what do I put into the "????" in that JSON? If I use the name of the table ("EmailAddress"), that implies that there's only one. I would rather it be called "EmailAddresses". Hence, I use Humanizer to pluralize it:
+
+[source,C#,indent=0]
+----
+spec.ArrayAppend(From.TableName.Pluralize(), docToEmbed.ContentAs<dynamic>(), true);
+----
+
+So, now it becomes:
+
+[source,JavaScript,indent=0]
+----
+{
+  "BusinessEntityID" : 1,
+  "FirstName" : "Ken",
+  "LastName" : "Sánchez",
+  "EmailAddresses" : [
+    { "EmailAddress" : "ken0@adventure-works.com"}
+  ]
+}
+----
+
+Thanks for checking out these three libraries! I hope these will help you some day. Don't forget to check out the rest of the link:https://www.csadvent.christmas/[2021 C# Advent].
+
+++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/69NE3YLXXE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+++++
