@@ -19,7 +19,12 @@ The gift of gold signified that the receiver was as important as a king.
 
 image:06003-melchior-gold.jpg[Gold]
 
-SQL Server has many data types. Mapping these data types into C# types (and ultimately to JSON) is usually straightfoward. `varchar, nvarchar, text`? string. `int, float, decimal, money`? number. `bit`? boolean. Even XML can become a string.
+SQL Server has many data types. Mapping these data types into C# types (and ultimately to JSON) is usually straightfoward.
+
+* `varchar, nvarchar, text`? **string**.
+* `int, float, decimal, money`? **number**.
+* `bit`? **boolean**.
+* Even XML can become a string.
 
 But what about the other types? Spatial types, mainly: Geography and geometry? That's what Microsoft.SqlServer.Types is for: to provide C# types that can store propietary SQL Server data type values.
 
@@ -115,7 +120,7 @@ var newKey = string.Join("::", keys.Select(k => Dynamic.InvokeGet(row, k)));
 
 If a primary key is made up of one column and the row has a value of "1", then that becomes the document key in Couchbase. If a primary key is made up of multiple columns, with values of "123" and "456", that becomes a document key in Couchbase of "123::456".
 
-If it weren't for Dynamitey, I'd have to create C# classes for every table. And that greatly reduced the amount of automation.
+If it weren't for Dynamitey, I'd have to create C# classes for every table. And that greatly reduces the amount of automation.
 
 == Humanizer
 
